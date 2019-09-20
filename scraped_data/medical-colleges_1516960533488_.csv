@@ -1,0 +1,985 @@
+College                         			 					,Rating               			,Location									,Affiliate 					,Average Fee 								,Exam Accepted								,Review									
+"Government Medical College / Rajindra Hospital-[GMCP], Patiala","7.1/10","Patiala, Punjab","MCI, UGC","₹26 K / yr MBBS - avg fee",,"4 / 5 4 reviews"
+"Thrissur Govt. Medical College, Thrissur","7.1/10","Thrissur, Kerala","MCI","₹48.9 K / yr MBBS - avg fee",,""
+"LLRM Medical College, Meerut","7.1/10","Meerut, Uttar Pradesh","","-- MBBS",,"4 / 5 1 reviews"
+"University College of Medical Sciences - [UCMS], New Delhi","7.1/10","New Delhi, Delhi NCR","MCI","₹5.68 K / yr B.Sc (Medicine) - ...",,"4.6 / 5 3 reviews"
+"Aligarh Muslim University - [AMU], Aligarh","7.1/10","Aligarh, Uttar Pradesh","NAAC, UGC","₹9.56 K / yr UG Diploma in Medi...",,"4.1 / 5 45 reviews"
+"Dr SN Medical College & Hospital, Jodhpur","7.1/10","Jodhpur, Rajasthan","MCI","-- MBBS",,"3.4 / 5 8 reviews"
+"Bharati Vidyapeeth Deemed University Medical College and Hospital, Sangli","7.1/10","Sangli, Maharashtra","MCI, UGC","₹1.42 L / yr MBBS - avg fee",,""
+"Government Medical College and Hospital - [GMCH], Chandigarh","7.0/10","Chandigarh, Chandigarh","MCI, UGC","₹1.18 L / yr BHMS - avg fee",,"4.4 / 5 3 reviews"
+"Rajendra Institute of Medical Sciences - [RIMS], Ranchi","7.0/10","Ranchi, Jharkhand","MCI","₹5.4 K / yr MBBS - avg fee",,"3.8 / 5 3 reviews"
+"T.D. Medical College - [TDMC], Alappuzha","7.0/10","Alappuzha, Kerala","MCI","₹47 K / yr Graduate Diploma i...",,""
+"Topiwala National Medical College - [TNMC], Mumbai","7.0/10","Mumbai, Maharashtra","MCI","₹30.5 K / yr B.Sc (Medicine) - ...",,"4 / 5 17 reviews"
+"Sri Ram Chandra Bhanj Medical College and Hospital - [SCBMCH], Cuttack","7.0/10","Cuttack, Orissa","MCI","₹29.8 K / yr MBBS - avg fee",,"4.3 / 5 7 reviews"
+"GSVM Medical College, Kanpur","7.0/10","Kanpur, Uttar Pradesh","MCI","₹24 K / yr MBBS - avg fee",,"4.6 / 5 1 reviews"
+"Pt Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences - [PGIMS], Rohtak","7.0/10","Rohtak, Haryana","MCI","₹12.4 K / yr Bachelor of Physio...",,"3.6 / 5 3 reviews"
+"Chhattisgarh Institute of Medical Sciences - [CIMS], Bilaspur","7.0/10","Bilaspur, Chhattisgarh","MCI","₹34.5 K / yr MBBS - avg fee",,""
+"M.S. Ramaiah Medical College, Bangalore","7.0/10","Bangalore, Karnataka","MCI","₹40.2 K / yr Bachelor of Physio...",,"4.6 / 5 3 reviews"
+"Maharajah's Institute of Medical Sciences - [MIMS], Vizianagaram","7.0/10","Vizianagaram, Andhra Pradesh","MCI","₹88.9 K / yr BHMS - avg fee",,""
+"SVS Medical College, Mahabub Nagar","7.0/10","Mahabub Nagar, Telangana","MCI","₹11 L / yr MBBS - avg fee",,""
+"Maharshi Dayanand University - [MDU], Rohtak","7.0/10","Rohtak, Haryana","UGC, NAAC-A","₹16.2 K / yr M.Phil/Ph.D in Med...",,"3.4 / 5 21 reviews"
+"Coimbatore Medical College - [CMC], Coimbatore","7.0/10","Coimbatore, Tamil Nadu","MCI","₹45.8 K / yr MBBS - avg fee",,"1.4 / 5 1 reviews"
+"Baba Farid University of Health Sciences - [BFUHS], Faridkot","7.0/10","Faridkot, Punjab","DCI, MCI, CCH, CCIM, UGC","₹18 K / yr BAMS - avg fee",,""
+"Kurnool Medical College - [KMC], Kurnool","7.0/10","Kurnool, Andhra Pradesh","MCI","₹11.4 K / yr MBBS - avg fee",,"3.8 / 5 6 reviews"
+"Sikkim Manipal Institute of Medical Sciences - [SMIMS], Gangtok","7.0/10","Gangtok, Sikkim","MCI","₹11.7 L / yr MBBS - avg fee",,"3.1 / 5 4 reviews"
+"Fathima Institute of Medical Sciences, Kadapa","7.0/10","Kadapa, Andhra Pradesh","MCI","-- MBBS",,
+"Manipal University - [MU], Manipal","7.0/10","Manipal, Karnataka","DCI, PCI, INC, MCI, AICTE","₹1.31 L / yr B.Sc (Medicine) - ...",,"4.2 / 5 33 reviews"
+"Maharashtra University of Health Sciences - [MUHS], Nashik","7.0/10","Nashik, Maharashtra","UGC, MHRD","₹21.2 K / yr BAMS - avg fee",,""
+"AJ Institute of Medical Sciences and Research Centre, Mangalore","7.0/10","Mangalore, Karnataka","MCI","₹6.33 L / yr MBBS - avg fee",,""
+"Barkatullah University - [BU], Bhopal","7.0/10","Bhopal, Madhya Pradesh","UGC, NAAC-B","₹10 K / yr PG Diploma in Medi...",,"3.6 / 5 4 reviews"
+"Gujarat Adani Institute of Medical Sciences - [GAIMS], Kachchh","6.9/10","Kachchh, Gujarat","MCI","₹3 L / yr MBBS - avg fee",,"3.2 / 5 1 reviews"
+"Santosh University, Ghaziabad","6.9/10","Ghaziabad, Uttar Pradesh","DCI, MCI, NAAC, UGC","₹15.5 L / yr MBBS - avg fee",,"3.2 / 5 10 reviews"
+"Maharashtra Institute of Medical Education and Research - [MIMER], Pune","6.9/10","Pune, Maharashtra","MCI","₹1.79 L / yr MBBS - avg fee",,""
+"Bundelkhand University, Jhansi","6.9/10","Jhansi, Uttar Pradesh","AICTE, NAAC, UGC","₹40.8 K / yr Bachelor of Physio...",,""
+"Jorhat Medical College - [JMC], Jorhat","6.9/10","Jorhat, Assam","MCI","-- MBBS",,""
+"Smt. NHL Municipal Medical College, Ahmedabad","6.9/10","Ahmedabad, Gujarat","MCI","₹4.3 L / yr MBBS - avg fee",,"3.7 / 5 3 reviews"
+"Kempegowda Institute of Medical Sciences - [KIMS], Bangalore","6.9/10","Bangalore, Karnataka","MCI","₹1.15 L / yr MBBS - avg fee",,"2.7 / 5 2 reviews"
+"Mahatma Jyotiba Phule Rohilkhand University - [MJPRU], Bareilly","6.9/10","Bareilly, Uttar Pradesh","AICTE, UGC","₹25 K / yr PG Diploma in Medi...",,""
+"Sanjay Gandhi Postgraduate Institute of Medical Sciences - [SGPGIMS], Lucknow","6.9/10","Lucknow, Uttar Pradesh","MCI","-- MD",,"2.8 / 5 3 reviews"
+"Index Medical College Hospital & Research Centre, Indore","6.9/10","Indore, Madhya Pradesh","MCI","₹6.25 L / yr MBBS - avg fee",,"3.7 / 5 1 reviews"
+"Dr VRK Women's Medical College, Rangareddi","6.9/10","Rangareddi, Telangana","","-- MBBS",,
+"Government Medical College, Kota","6.9/10","Kota, Rajasthan","MCI","₹9.09 K / yr MBBS - avg fee",,"1.2 / 5 1 reviews"
+"Konaseema Institute of Medical Sciences & Research Foundation - [KIMS], East Godavari","6.9/10","East Godavari, Andhra Pradesh","MCI","-- MBBS",,"3.5 / 5 1 reviews"
+"Sri Aurobindo Institute of Medical Sciences - [SAIMS], Indore","6.9/10","Indore, Madhya Pradesh","MCI","₹6.36 L / yr MBBS - avg fee",,""
+"PSG Institute of Medical Sciences and Research - [PSGIMSR], Coimbatore","6.9/10","Coimbatore, Tamil Nadu","MCI","₹1.8 L / yr MBBS - avg fee",,"2.9 / 5 1 reviews"
+"Maharaja Krishna Chandra Gajapati Medical College and Hospital - [MKCG], Berhampur","6.9/10","Berhampur, Orissa","MCI","₹29.2 K / yr MBBS - avg fee",,"2.5 / 5 3 reviews"
+"Army College of Medical Science - [ACMS], New Delhi","6.9/10","New Delhi, Delhi NCR","MCI","₹3.51 L / yr MBBS - avg fee",,
+"Pandit Deendayal Upadhyay Medical College - [PDUMC], Rajkot","6.9/10","Rajkot, Gujarat","MCI","₹6 K / yr MBBS - avg fee",,"4.7 / 5 2 reviews"
+"C. U. Shah Medical College - [CUSMC], Surendra Nagar","6.9/10","Surendra Nagar, Gujarat","MCI","₹3.75 L / yr MBBS - avg fee",,""
+"Jawaharlal Nehru Medical College - [JLNMC], Bhagalpur","6.9/10","Bhagalpur, Bihar","AICTE","₹6 K / yr MBBS - avg fee",,"3.7 / 5 2 reviews"
+"PES Institute of Medical Sciences and Research - [PESIMSR], Kuppam","6.9/10","Kuppam, Andhra Pradesh","MCI, AICTE, NAAC, NBA","₹10.4 L / yr MBBS - avg fee",,"4.2 / 5 5 reviews"
+"Siksha 'O' Anusandhan University - [SOA], Bhubaneswar","6.9/10","Bhubaneswar, Orissa","UGC, NAAC-A","₹97 K / yr B.Sc (Nursing) - a...",,""
+"Deccan College of Medical Sciences, Hyderabad","6.9/10","Hyderabad, Telangana","MCI","₹9.45 L / yr MBBS - avg fee",,"3 / 5 5 reviews"
+"Dr. B.R. Ambedkar Medical College - [BRAMC], Bangalore","6.9/10","Bangalore, Karnataka","MCI","₹3.57 L / yr MBBS - avg fee",,"2.6 / 5 1 reviews"
+"Katuri Medical College and Hospital, Guntur","6.9/10","Guntur, Andhra Pradesh","MCI","-- MBBS",,""
+"Madurai Medical College, Madurai","6.9/10","Madurai, Tamil Nadu","MCI","₹13.6 K / yr MBBS - avg fee",,"3.7 / 5 2 reviews"
+"Maharaja Agrasen Medical College - [MAMC], Agroha","6.9/10","Agroha, Haryana","MCI","₹47.7 K / yr Bachelor of Physio...",,""
+"NRI Medical College - [NRIAS], Guntur","6.8/10","Guntur, Andhra Pradesh","MCI","₹34 K / yr B.Sc (Medicine) - ...",,"4.5 / 5 3 reviews"
+"Pramukhswami Medical College - [PSMC], Anand","6.8/10","Anand, Gujarat","MCI","-- MBBS",,""
+"Assam Medical College, Dibrugarh","6.8/10","Dibrugarh, Assam","MCI","₹25 K / yr MBBS - avg fee",,"3.9 / 5 3 reviews"
+"Janardan Rai Nagar Rajasthan Vidyapeeth University - [JRNRVU], Udaipur","6.8/10","Udaipur, Rajasthan","AICTE, UGC, NAAC-A","₹95 K / yr BHMS - avg fee",,"3.8 / 5 17 reviews"
+"GSL Medial College and General Hospital, Rajahmundhry","6.8/10","Rajahmundhry, Andhra Pradesh","MCI","-- MBBS",,"3.7 / 5 4 reviews"
+"Hamdard Institute of Medical Sciences and Research - [HIMSR], New Delhi","6.8/10","New Delhi, Delhi NCR","MCI","₹1.07 L / yr Bachelor of Physio...",,"4 / 5 1 reviews"
+"GCS Medical College, Hospital & Research Centre, Ahmedabad","6.8/10","Ahmedabad, Gujarat","MCI","₹4 L / yr MBBS - avg fee",,""
+"Bhaskar Medical College - [BMC], Hyderabad","6.8/10","Hyderabad, Telangana","MCI","₹1.82 L / yr MBBS - avg fee",,"3.8 / 5 1 reviews"
+"Smt Kashibai Navale Medical College and General Hospital - [SKNMCGH], Pune","6.8/10","Pune, Maharashtra","MCI","₹5.73 L / yr MBBS - avg fee",,"4.4 / 5 1 reviews"
+"Darbhanga Medical College, Darbhanga","6.8/10","Darbhanga, Bihar","MCI","₹6 K / yr MBBS - avg fee",,""
+"Mahatma Gandhi Memorial Medical College - [MGMMC], Indore","6.8/10","Indore, Madhya Pradesh","MCI","₹35 K / yr MBBS - avg fee",,"4.2 / 5 2 reviews"
+"Jiwaji University, Gwalior","6.8/10","Gwalior, Madhya Pradesh","UGC","₹11.9 K / yr M.Phil/Ph.D in Med...",,"3.2 / 5 12 reviews"
+"Mamata Medical College, Khammam","6.8/10","Khammam, Telangana","NAAC","-- MBBS",,"1.5 / 5 1 reviews"
+"St John's Medical College, Bangalore","6.8/10","Bangalore, Karnataka","MCI, NAAC","₹4.95 L / yr MBBS - avg fee",,""
+"Nilratan Sircar Medical College & Hospital - [NRS], Kolkata","6.8/10","Kolkata, West Bengal","MCI","₹15 K / yr MD - avg fee",,"3.7 / 5 2 reviews"
+"Goa Medical College and Hospital, Tiswadi","6.8/10","Tiswadi, Goa","MCI","₹24 K / yr Bachelor of Physio...",,"3.4 / 5 1 reviews"
+"Moti Lal Nehru Medical College - [MLNMC], Allahabad","6.8/10","Allahabad, Uttar Pradesh","MCI","₹3.28 K / yr MBBS - avg fee",,"3.5 / 5 1 reviews"
+"Anugrah Narayan Magadh Medical College and Hospital - [ANMMCH], Gaya","6.8/10","Gaya, Bihar","MCI","₹8.82 K / yr MBBS - avg fee",,""
+"NIMS University, Jaipur","6.8/10","Jaipur, Rajasthan","PCI, BCI, UGC, AIU","₹54.4 K / yr Bachelor of Physio...",,"3.7 / 5 6 reviews"
+"Patna Medical College - [PMC], Patna","6.8/10","Patna, Bihar","MCI","₹12.1 K / yr MBBS - avg fee",,"4.3 / 5 2 reviews"
+"Guntur Medical College, Guntur","6.8/10","Guntur, Andhra Pradesh","MCI","₹16.9 K / yr B.Sc (Medicine) - ...",,""
+"Vardhman Mahavir Medical College - [VMMC], New Delhi","6.8/10","New Delhi, Delhi NCR","MCI","₹30.5 K / yr MBBS - avg fee",,"4.4 / 5 3 reviews"
+"Government Chengalpattu Medical College, Kanchipuram","6.8/10","Kanchipuram, Tamil Nadu","MCI","₹12.4 K / yr MBBS - avg fee",,""
+"Alluri Sitharama Raju Academy of Medical Sciences - [ASRAM], Eluru","6.8/10","Eluru, Andhra Pradesh","MCI","₹5.5 L / yr MBBS - avg fee",,
+"Kamineni Institute of Medical Sciences, Nalgonda","6.8/10","Nalgonda, Telangana","MCI, NAAC","₹9 L / yr MBBS - avg fee",,""
+"Era's Lucknow Medical College and Hospital, Lucknow","6.8/10","Lucknow, Uttar Pradesh","MCI","₹16.8 L / yr MBBS - avg fee",,"3.5 / 5 4 reviews"
+"Bankura Sammilani Medical College, Bankura","6.8/10","Bankura, West Bengal","MCI","₹8.18 K / yr MBBS - avg fee",,"3.7 / 5 4 reviews"
+"Baba Raghav Das Medical College - [BRD], Gorakhpur","6.8/10","Gorakhpur, Uttar Pradesh","MCI","₹37.8 K / yr MBBS - avg fee",,""
+"Nalanda Medical College, Patna","6.8/10","Patna, Bihar","MCI","₹11.8 K / yr MBBS - avg fee",,""
+"SRM University Kattankulathur Campus - [SRM], Kanchipuram","6.7/10","Kanchipuram, Tamil Nadu","UGC, NAAC-A","₹51.7 K / yr B.Sc (Medicine) - ...",,"4 / 5 192 reviews"
+"Terna Medical College, Navi Mumbai","6.7/10","Navi Mumbai, Maharashtra","MCI","₹4.64 L / yr MBBS - avg fee",,""
+"Dayanand Medical College and Hospital - [DMCH], Ludhiana","6.7/10","Ludhiana, Punjab","MCI","₹2.2 L / yr MBBS - avg fee",,"4 / 5 3 reviews"
+"Mediciti Institute of Medical Sciences - [MIMS], Ghanpur","6.7/10","Ghanpur, Telangana","MCI","-- MBBS",,"3.1 / 5 1 reviews"
+"Great Eastern Medical School and Hospital, Srikakulam","6.7/10","Srikakulam, Andhra Pradesh","UGC","₹66.9 K / yr MBBS - avg fee",,
+"Smt. BK Shah Medical Institute and Research Centre, Vadodara","6.7/10","Vadodara, Gujarat","MCI","₹9.5 L / yr MBBS - avg fee",,""
+"Govt Mohan Kumaramangalam Medical College - [GMKMC], Salem","6.7/10","Salem, Tamil Nadu","MCI","₹12.4 K / yr MBBS - avg fee",,""
+"MVJ Medical College and Research Hospital, Hoskote","6.7/10","Hoskote, Karnataka","MCI","₹3.57 L / yr MBBS - avg fee",,""
+"Sree Balaji Medical College and Hospital - [SBMCH], Chennai","6.7/10","Chennai, Tamil Nadu","MCI, UGC, NAAC-A","₹66.7 K / yr MBBS - avg fee",,""
+"IRT Perundurai Medical College - [IRTPMC], Erode","6.7/10","Erode, Tamil Nadu","MCI","₹2.8 L / yr MBBS - avg fee",,""
+"Gauhati Medical College and Hospital - [GMCH], Guwahati","6.7/10","Guwahati, Assam","MCI","-- MBBS",,"4.4 / 5 1 reviews"
+"Indira Gandhi Institute of Medical Sciences - [IGIMS], Patna","6.7/10","Patna, Bihar","UGC","₹28.3 K / yr B.Sc (Medicine) - ...",,""
+"MGM Medical College, Navi Mumbai","6.7/10","Navi Mumbai, Maharashtra","MCI, NAAC-A","₹7.65 L / yr MBBS - avg fee",,"3.6 / 5 5 reviews"
+"Silchar Medical College - [SMC], Silchar","6.7/10","Silchar, Assam","MCI","₹20 K / yr MBBS - avg fee",,"3.2 / 5 1 reviews"
+"Pravara Institute of Medical Sciences University - [PIMS], Ahmed Nagar","6.7/10","Ahmed Nagar, Maharashtra","UGC, MHRD","₹77 K / yr Bachelor of Physio...",,"3.5 / 5 1 reviews"
+"North Bengal Medical College - [NBMC], Darjeeling","6.7/10","Darjeeling, West Bengal","MCI","₹8.18 K / yr MBBS - avg fee",,"4.4 / 5 3 reviews"
+"Post Graduate Institute of Medical Education & Research - [PGIMER], Chandigarh","6.2/10","Chandigarh, Chandigarh","INC, MCI, UGC","₹700 / yr B.Sc (Nursing) - a...",,"4.9 / 5 1 reviews"
+"Ranchi University, Ranchi","6.2/10","Ranchi, Jharkhand","UGC, NAAC-B","₹5 K / yr Diploma in Medical...",,""
+"Indira Gandhi Government Medical College & Hospital - [IGGMCH], Nagpur","6.2/10","Nagpur, Maharashtra","MCI","₹74.7 K / yr MBBS - avg fee",,""
+"Kalinga Institute of Medical Sciences - [KIMS], Bhubaneswar","6.0/10","Bhubaneswar, Orissa","MCI","₹2.41 L / yr MBBS - avg fee",,"3.9 / 5 1 reviews"
+"Bhava Institute of Medical Science and Research - [BIMSR], Bhubaneswar","5.7/10","Bhubaneswar, Orissa","UGC","-- Bachelor of Physio...",,""
+"Amrita School of Medicine, Kochi","5.7/10","Kochi, Kerala","MCI","₹12.8 L / yr MBBS - avg fee",,"3.9 / 5 1 reviews"
+"Bharati Vidyapeeth Medical College - [BVMD], Pune","5.7/10","Pune, Maharashtra","MCI, NAAC","₹1 L / yr B.Sc (Medicine) - ...",,""
+"Gandhi Medical College, Secunderabad","5.7/10","Secunderabad, Telangana","","₹37.5 K / yr MBBS - avg fee",,"3.3 / 5 1 reviews"
+"NKP Salve Institute of Medical Sciences , Nagpur","5.7/10","Nagpur, Maharashtra","MCI","₹5 L / yr MBBS - avg fee",,"1.7 / 5 2 reviews"
+"Sai Nath University, Ranchi","5.7/10","Ranchi, Jharkhand","UGC","₹40 K / yr Bachelor of Physio...",,"3.3 / 5 10 reviews"
+"Jaipur National University - [JNU], Jaipur","5.7/10","Jaipur, Rajasthan","AICTE, NAAC, UGC","₹60.3 K / yr Bachelor of Physio...",,"3.5 / 5 49 reviews"
+"Calcutta National Medical College - [CNMC], Kolkata","5.6/10","Kolkata, West Bengal","MCI","₹4.46 K / yr MBBS - avg fee",,"3.9 / 5 3 reviews"
+"Central Institute of Psychiatry - [CIP], Ranchi","5.6/10","Ranchi, Jharkhand","MCI","-- MD",,""
+"Vydehi Institute of Medical Sciences and Research Centre - [VIMS], Bangalore","5.4/10","Bangalore, Karnataka","DCI, MCI","₹2.57 L / yr B.Sc (Medicine) - ...",,"4 / 5 4 reviews"
+"Datta Meghe Institute of Medical Sciences - [DMIMS], Nagpur","5.4/10","Nagpur, Maharashtra","NAAC-A","₹4.11 L / yr BAMS - avg fee",,"4.4 / 5 1 reviews"
+"All India Institute of Medical Sciences - [AIIMS], Bhubaneswar","5.4/10","Bhubaneswar, Orissa","MCI","₹1.64 K / yr MBBS - avg fee",,""
+"Chirayu Medical College and Hospital - [CMCH], Bhopal","5.4/10","Bhopal, Madhya Pradesh","","-- MBBS",,
+"Nehru Homeopathic Medical College & Hospital, New Delhi","5.2/10","New Delhi, Delhi NCR","MCI","₹1.72 K / yr BHMS - avg fee",,""
+"Dr DY Patil Medical College Hospital and Research Centre - [DYPMC], Pune","5.2/10","Pune, Maharashtra","MCI, NAAC-A","₹16.4 L / yr MBBS - avg fee",,"3.7 / 5 5 reviews"
+"All India Institute of Medical Sciences - [AIIMS], Patna","5.2/10","Patna, Bihar","INC, MCI","₹1.61 K / yr MBBS - avg fee",,""
+"Sri Muthukumaran Medical College Hospital and Research Institute - [SMMCHRI], Chennai","5.1/10","Chennai, Tamil Nadu","MCI","₹12.1 L / yr MBBS - avg fee",,""
+"Kolkata Medical College, Kolkata","4.9/10","Kolkata, West Bengal","MCI","₹9 K / yr MBBS - avg fee",,"4.1 / 5 5 reviews"
+"Government Kilpauk Medical College - [GKMC], Chennai","4.9/10","Chennai, Tamil Nadu","MCI","₹12.4 K / yr MBBS - avg fee",,"4 / 5 1 reviews"
+"Jamia Hamdard University, New Delhi","4.9/10","New Delhi, Delhi NCR","MCI, AICTE, UGC, NAAC-A","₹94.7 K / yr Bachelor of Physio...",,"4 / 5 20 reviews"
+"Rajiv Gandhi University of Health Sciences - [RGUHS], Bangalore","4.9/10","Bangalore, Karnataka","MCI, UGC","₹20 K / yr MBBS - avg fee",,""
+"Sapthagiri Institute of Medical Sciences and Research Centre - [SIMSRC], Bangalore","4.9/10","Bangalore, Karnataka","MCI","₹55 K / yr Bachelor of Physio...",,""
+"Jupiter Ayurved Medical College, Nagpur","4.6/10","Nagpur, Maharashtra","CCIM","₹1.02 L / yr BAMS - avg fee",,
+"KPC Medical College and Hospital - [KPCMC&H], Kolkata","4.6/10","Kolkata, West Bengal","MCI","₹6.2 L / yr MBBS - avg fee",,"4.2 / 5 2 reviews"
+"Medical Trust Institute of Medical Sciences - [MTIMS], Kochi","4.6/10","Kochi, Kerala","RCI, KNC, MCI","₹65 K / yr Bachelor of Physio...",,""
+"Oxford Medical College Hospital and Research Centre, Bangalore","4.6/10","Bangalore, Karnataka","PCI, AICTE, BCI","-- MBBS",,
+"Vallabhbhai Patel Chest Institute - [VPCI], New Delhi","4.6/10","New Delhi, Delhi NCR","","₹10 K / yr MD - avg fee",,
+"Symbiosis Institute of Health Sciences - [SIHS], Pune","4.1/10","Pune, Maharashtra","AICTE","-- B.Sc (Medicine)",,""
+"Loyola College, Chennai","9.6/10","Chennai, Tamil Nadu","NAAC-A","₹5.95 K / yr M.Sc (Medicine) - ...",,""
+"Indian Institute of Science - [IISc], Bangalore","9.5/10","Bangalore, Karnataka","UGC","₹25.2 K / yr M.Phil/Ph.D in Med...",,""
+"St. Xavier's College, Mumbai","9.4/10","Mumbai, Maharashtra","UGC, NAAC-A","₹50 K / yr Diploma in Medical...",,""
+"The West Bengal National University of Juridical Sciences - [NUJS], Kolkata","9.4/10","Kolkata, West Bengal","BCI, UGC","₹44 K / yr PG Diploma in Medi...",,""
+"National Institute of Pharmaceutical Education and Research - [NIPER], Mohali","9.2/10","Mohali, Punjab","PCI","₹48.3 K / yr MS - avg fee",,""
+"Jawaharlal Nehru University - [JNU], New Delhi","9.0/10","New Delhi, Delhi NCR","NAAC-A","-- M.Phil/Ph.D in Med...",,""
+"JSS College of Pharmacy Ooty, The Nilgiris","8.8/10","The Nilgiris, Tamil Nadu","PCI, AICTE","-- PG Diploma in Medi...",,""
+"Jagadguru Sri Shivarathreeswara University - [JSS University], Mysore","8.8/10","Mysore, Karnataka","UGC, NAAC-A","₹64.3 K / yr B.Sc (Medicine) - ...",,"3.9 / 5 15 reviews"
+"Madras Christian College - [MCC], Chennai","8.7/10","Chennai, Tamil Nadu","UGC, NAAC-A","₹16 K / yr PG Diploma in Medi...",,"4.1 / 5 16 reviews"
+"Shailesh J. Mehta School of Management, IIT Bombay - [SJMSOM], Mumbai","8.6/10","Mumbai, Maharashtra","AICTE","₹24 K / yr M.Phil/Ph.D in Med...",,""
+"Narsee Monjee Institute of Management Studies - [NMIMS University], Mumbai","8.4/10","Mumbai, Maharashtra","NAAC, UGC","₹3.05 L / yr Master of Physioth...",,""
+"Guru Gobind Singh Indraprastha University - [GGSIPU], New Delhi","8.4/10","New Delhi, Delhi NCR","AICTE, UGC, NAAC-A","₹48 K / yr BAMS - avg fee",,"3.9 / 5 36 reviews"
+"Maharaja Sayajirao University of Baroda - [MSU], Baroda","8.4/10","Baroda, Gujarat","NAAC, UGC","-- PG Diploma in Medi...",,""
+"Jamia Millia Islamia University-[JMI], New Delhi","8.4/10","New Delhi, Delhi NCR","AICTE, UGC, NAAC-A","₹21.6 K / yr Bachelor of Physio...",,"3.9 / 5 69 reviews"
+"Birla Institute of Technology - [BIT Mesra], Ranchi","8.2/10","Ranchi, Jharkhand","PCI, AICTE, UGC, NBA, NAAC-B","₹59 K / yr M.Phil/Ph.D in Med...",,""
+"University of Calcutta, Kolkata","8.2/10","Kolkata, West Bengal","NAAC-A","₹25 K / yr Graduate Diploma i...",,""
+"College of Veterinary and Animal Sciences - [CVAS], Bikaner","8.1/10","Bikaner, Rajasthan","AICTE, UGC","₹14.2 K / yr M.Phil/Ph.D in Med...",,""
+"Devi Ahilya Vishwavidyalaya, Indore","8.1/10","Indore, Madhya Pradesh","UGC, NAAC-A","₹37.6 K / yr PG Diploma in Medi...",,""
+"Osmania University - [OU], Hyderabad","7.9/10","Hyderabad, Telangana","AICTE, UGC, NAAC-A","₹3 K / yr B.Sc (Medicine) - ...",,"3.7 / 5 25 reviews"
+"Anna University, Chennai","7.9/10","Chennai, Tamil Nadu","AICTE, UGC","-- M.Phil/Ph.D in Med...",,""
+"KLE University, Belgaum","7.8/10","Belgaum, Karnataka","MCI, UGC, NAAC-A","₹25 K / yr BAMS - avg fee",,"3.4 / 5 9 reviews"
+"Sri Guru Ram Das Institute of Dental Sciences and Research, Amritsar","7.7/10","Amritsar, Punjab","UGC","-- MD",,
+"University of Mumbai, Mumbai","7.7/10","Mumbai, Maharashtra","UGC, NAAC-A","₹32.2 K / yr PG Diploma in Medi...",,"3.4 / 5 26 reviews"
+"Bharati Vidyapeeth University - [BVU], Pune","7.7/10","Pune, Maharashtra","NAAC, UGC","₹2.4 L / yr BAMS - avg fee",,"3.6 / 5 16 reviews"
+"University of Calicut, Calicut","7.6/10","Calicut, Kerala","NAAC-A","₹42.3 K / yr B.Sc (Medicine) - ...",,"3.3 / 5 3 reviews"
+"Annamalai University, Chidambaram","7.6/10","Chidambaram, Tamil Nadu","NCTE, DCI, AICTE, MCI, UGC","₹28.7 K / yr Bachelor of Physio...",,"3.6 / 5 30 reviews"
+"Noida International University - [NIU], Gautam Budh Nagar","7.5/10","Gautam Budh Nagar, Uttar Pradesh","AICTE, UGC","₹64 K / yr B.Sc (Medicine) - ...",,"3.4 / 5 16 reviews"
+"Symbiosis International University - [SIU], Pune","7.3/10","Pune, Maharashtra","AICTE, UGC, NAAC-A","₹65.8 K / yr B.Sc (Nursing) - a...",,"3.8 / 5 4 reviews"
+"Osmania University College for Women - [UCW], Hyderabad","7.3/10","Hyderabad, Telangana","UGC","-- UG Diploma in Medi...",,""
+"Savitribai Phule Pune University - [SPPU], Pune","7.3/10","Pune, Maharashtra","UGC, NAAC-A","₹7.26 K / yr M.Sc (Medicine) - ...",,"3.2 / 5 9 reviews"
+"Utkal University, Bhubaneswar","7.3/10","Bhubaneswar, Orissa","NAAC, UGC","₹14.8 K / yr M.Phil/Ph.D in Med...",,""
+"Amity University, Noida","7.3/10","Noida, Uttar Pradesh","NAAC, UGC","₹1.04 L / yr Bachelor of Physio...",,"4 / 5 159 reviews"
+"Banaras Hindu University - [BHU], Varanasi","7.3/10","Varanasi, Uttar Pradesh","NAAC, UGC, AIU","₹9.43 K / yr BAMS - avg fee",,"4.1 / 5 57 reviews"
+"Madhav University - [MU], Sirohi","7.2/10","Sirohi, Rajasthan","NCTE, PCI, BCI, AICTE, UGC","₹1 L / yr BAMS - avg fee",,""
+"Ayush and Health Science University - [AHSU], Raipur","7.2/10","Raipur, Chhattisgarh","AICTE","₹23.4 K / yr BAMS - avg fee",,""
+"Sharda University - [SU], Greater Noida","7.2/10","Greater Noida, Uttar Pradesh","NCTE, DCI, COA, INC, MCI","₹1.23 L / yr Bachelor of Physio...",,"4 / 5 95 reviews"
+"Rajasthan University of Health Sciences - [RUHS], Jaipur","7.2/10","Jaipur, Rajasthan","DCI, MCI, UGC","₹70 K / yr B.Sc (Medicine) - ...",,""
+"OPJS University, Churu","7.2/10","Churu, Rajasthan","NCTE, COA, BCI, AICTE, UGC","₹51.1 K / yr Bachelor of Physio...",,"3.6 / 5 10 reviews"
+"Manav Rachna International Institute of Research and Studies - [MRIIRS], Faridabad","7.1/10","Faridabad, Haryana","UGC, NBA, NAAC-A","₹1.52 L / yr Bachelor of Physio...",,"3.7 / 5 40 reviews"
+"Chaudhary Charan Singh University - [CCS], Meerut","7.1/10","Meerut, Uttar Pradesh","UGC, NAAC-B","₹78.5 K / yr M.Sc (Medicine) - ...",,""
+"The Oxford Dental College and Hospital, Bangalore","7.1/10","Bangalore, Karnataka","DCI, NAAC-A","-- Diploma in Medical",,""
+"Ansal University- [AU], Gurgaon","7.0/10","Gurgaon, Haryana","UGC","₹1.02 L / yr B.Sc (Medicine) - ...",,""
+"Chitkara University - [CU], Chandigarh","7.0/10","Chandigarh, Chandigarh","NCTE, PCI, INC, UGC","₹83.5 K / yr Bachelor of Physio...",,"4.2 / 5 42 reviews"
+"Sikkim Manipal University - [SMU], East Sikkim","7.0/10","East Sikkim, Sikkim","AICTE, INC, MCI, IAP, UGC","₹73.3 K / yr B.Sc (Medicine) - ...",,"3.6 / 5 32 reviews"
+"Dr. D.Y. Patil Vidya Pratishthan Society's, Pune","6.9/10","Pune, Maharashtra","NCTE, AICTE, NAAC, NBA","-- BHMS",,"3.4 / 5 2 reviews"
+"Pandit Bhagwat Dayal Sharma University of Health Sciences, Rohtak","6.9/10","Rohtak, Haryana","MCI, UGC","₹11 K / yr Bachelor of Physio...",,""
+"PCTE Group of Institutes, Ludhiana","6.9/10","Ludhiana, Punjab","AICTE","₹50 K / yr B.Sc (Medicine) - ...",,""
+"Desh Bhagat University - [DBU], Gobindgarh","6.8/10","Gobindgarh, Punjab","UGC","₹1.82 L / yr BAMS - avg fee",,"3.3 / 5 11 reviews"
+"Kerala University of Health Sciences - [KUHS], Thrissur","6.8/10","Thrissur, Kerala","UGC","₹25 K / yr BAMS - avg fee",,""
+"Bahra University - [BU], Shimla","6.8/10","Shimla, Himachal Pradesh","PCI, BCI, UGC","₹69.9 K / yr Bachelor of Physio...",,""
+"Lord Shiva College of Pharmacy, Sirsa","6.8/10","Sirsa, Haryana","PCI, AICTE","₹41.6 K / yr UG Diploma in Medi...",,""
+"University of Mysore - [UOM], Mysore","6.8/10","Mysore, Karnataka","UGC, NAAC-A, AIU","₹31.6 K / yr M.Phil/Ph.D in Med...",,""
+"ITM University, Gwalior","6.8/10","Gwalior, Madhya Pradesh","AICTE, NAAC, UGC","₹65 K / yr B.Sc (Nursing) - a...",,"3.8 / 5 50 reviews"
+"Gujarat Ayurved University - [GAU], Jamnagar","6.7/10","Jamnagar, Gujarat","CCIM, UGC","₹2.27 K / yr BAMS - avg fee",,""
+"Sri Adichunchanagiri College of Pharmacy - [AACP], Mandya","6.7/10","Mandya, Karnataka","PCI, AICTE","-- PG Diploma in Medi...",,
+"AISECT University, Bhopal","6.7/10","Bhopal, Madhya Pradesh","NCTE, AICTE","-- Bachelor of Physio...",,""
+"Mahatma Gandhi Mission Institute of Health Sciences - [MGMIHS], Navi Mumbai","6.7/10","Navi Mumbai, Maharashtra","MCI, UGC, NAAC-A","₹35.6 K / yr Bachelor of Physio...",,"3.1 / 5 2 reviews"
+"Vinayaka Missions University - [VMU], Salem","6.7/10","Salem, Tamil Nadu","UGC","₹40 K / yr BHMS - avg fee",,"3.6 / 5 2 reviews"
+"Gurukula Kangri Vishwavidyalaya - [GKV], Haridwar","6.7/10","Haridwar, Uttarakhand","AICTE, NAAC, UGC","₹7.09 K / yr B.Sc (Medicine) - ...",,"3 / 5 8 reviews"
+"Kumaun University, Nainital","6.7/10","Nainital, Uttarakhand","NAAC-A","₹14.2 K / yr PG Diploma in Medi...",,""
+"Noorul Islam University, Kanyakumari","6.7/10","Kanyakumari, Tamil Nadu","AICTE, UGC, NBA, NAAC-A","₹1 L / yr B.Sc (Medicine) - ...",,""
+"Ponnaiyah Ramajayam Institute of Science and Technology University - [PRIST University], Thanjavur","6.7/10","Thanjavur, Tamil Nadu","UGC","-- M.Sc (Medicine)",,""
+"Sumandeep Vidyapeeth, Vadodara","6.7/10","Vadodara, Gujarat","PCI, MCI, UGC, NAAC-A","₹1.18 L / yr Bachelor of Physio...",,"3.8 / 5 11 reviews"
+"Kolhan University, Chaibasa","6.7/10","Chaibasa, Jharkhand","UGC","-- MBBS",,""
+"Hemwati Nandan Bahuguna Garhwal University, Garhwal","6.7/10","Garhwal, Uttarakhand","PCI, AICTE, UGC, NAAC-A","₹6.2 K / yr PG Diploma in Medi...",,""
+"Pacific University, Udaipur","6.7/10","Udaipur, Rajasthan","UGC, AIU","₹19 K / yr PG Diploma in Medi...",,""
+"Singhania University, Jhunjhunu","6.6/10","Jhunjhunu, Rajasthan","AICTE, UGC","₹37.2 K / yr Bachelor of Physio...",,"3.4 / 5 11 reviews"
+"Sri Sai College of Dental Surgery, Hyderabad","6.6/10","Hyderabad, Telangana","DCI","-- UG Certificate in ...",,""
+"Indira Gandhi National Open University - [IGNOU], New Delhi","6.6/10","New Delhi, Delhi NCR","NCTE, AICTE, NAAC","₹60 K / yr PG Diploma in Medi...",,"3.2 / 5 52 reviews"
+"GLA University, Mathura","6.6/10","Mathura, Uttar Pradesh","UGC, NAAC-A","₹1.22 L / yr M.Sc (Medicine) - ...",,""
+"Rajiv Gandhi College, Bhopal","6.6/10","Bhopal, Madhya Pradesh","NCTE, CCIM, AICTE, BCI, UGC","₹24 K / yr B.Sc (Medicine) - ...",,"3.4 / 5 7 reviews"
+"The Tamil Nadu Dr. M.G.R. Medical University, Chennai","6.6/10","Chennai, Tamil Nadu","DCI, RCI, PCI, INC, MCI","₹1.5 K / yr Bachelor of Physio...",,"3.4 / 5 4 reviews"
+"Kurukshetra University - [KUK], Kurukshetra","6.6/10","Kurukshetra, Haryana","NCTE, BCI, NCHMCT, AICTE, NAAC","₹17.3 K / yr PG Diploma in Medi...",,""
+"Jai Narain Vyas University - [JNVU], Jodhpur","6.6/10","Jodhpur, Rajasthan","UGC, NAAC-B","₹12 K / yr PG Diploma in Medi...",,""
+"Shobhit University, Meerut","6.6/10","Meerut, Uttar Pradesh","UGC, NAAC-B","₹32 K / yr PG Diploma in Medi...",,""
+"Teerthanker Mahaveer University - [TMU], Moradabad","6.6/10","Moradabad, Uttar Pradesh","UGC","₹73.2 K / yr Bachelor of Physio...",,"4 / 5 10 reviews"
+"Eastern Institute for Integrated Learning in Management - [EIILM University], West Sikkim","6.6/10","West Sikkim, Sikkim","AICTE, UGC","₹51.1 K / yr Bachelor of Physio...",,"3.9 / 5 3 reviews"
+"GITAM, Visakhapatnam","6.6/10","Visakhapatnam, Andhra Pradesh","UGC, NAAC-A","₹11 L / yr MBBS - avg fee",,""
+"Greenway Institute of Management Studies - [GIMS], Dehradun","6.6/10","Dehradun, Uttarakhand","AICTE, UGC","-- UG Diploma in Medi...",,""
+"Dr Babasaheb Ambedkar Open University - [BAOU], Ahmedabad","6.6/10","Ahmedabad, Gujarat","UGC","₹4.2 K / yr UG Diploma in Medi...",,"3.2 / 5 1 reviews"
+"CMJ University, Shillong","6.6/10","Shillong, Meghalaya","UGC","₹20 K / yr Bachelor of Physio...",,""
+"Career Point University - [CPU], Kota","6.6/10","Kota, Rajasthan","AICTE, UGC","₹55.1 K / yr Bachelor of Physio...",,"4 / 5 11 reviews"
+"Dr. Vithalrao Vikhe Patil Foundation's Medical College - [VIMS], Ahmed Nagar","6.6/10","Ahmed Nagar, Maharashtra","MCI","₹5.79 L / yr MBBS - avg fee",,"4.4 / 5 1 reviews"
+"Andhra University - [AU], Visakhapatnam","6.5/10","Visakhapatnam, Andhra Pradesh","AICTE, UGC, NAAC-A","₹30.4 K / yr BHMS - avg fee",,"3.7 / 5 34 reviews"
+"Guru Nanak Dev University - [GNDU], Amritsar","6.5/10","Amritsar, Punjab","UGC, NAAC-A","₹47.7 K / yr Bachelor of Physio...",,"4 / 5 40 reviews"
+"Dayalbagh Educational Institute - [DEI], Agra","6.5/10","Agra, Uttar Pradesh","UGC, NAAC-A, MHRD","₹8.45 K / yr UG Diploma in Medi...",,""
+"Bharathiar University - [BU], Coimbatore","6.5/10","Coimbatore, Tamil Nadu","UGC, NAAC-A","₹9.4 K / yr M.Phil/Ph.D in Med...",,""
+"Yashwantrao Chavan Maharashtra Open University- [YCMOU], Nashik","6.5/10","Nashik, Maharashtra","UGC","₹12.1 K / yr B.Sc (Medicine) - ...",,"2.1 / 5 2 reviews"
+"Yenepoya University, Mangalore","6.5/10","Mangalore, Karnataka","UGC","₹70 K / yr Bachelor of Physio...",,"4.5 / 5 1 reviews"
+"Tilka Manjhi Bhagalpur University - [TMBU], Bhagalpur","6.4/10","Bhagalpur, Bihar","AICTE, UGC, NAAC-B","-- Graduate Diploma i...",,
+"Mewar University - [MU], Chittorgarh","6.4/10","Chittorgarh, Rajasthan","NCTE, PCI, BCI, AICTE, UGC","₹33 K / yr B.Sc (Medicine) - ...",,"3.9 / 5 7 reviews"
+"ISF College of pharmacy, Moga","6.4/10","Moga, Punjab","PCI, NBA","-- PG Diploma in Medi...",,""
+"Santhigiri Siddha Medical College - [SSMC], Thiruvananthapuram","6.4/10","Thiruvananthapuram, Kerala","CCIM","₹1.14 L / yr BAMS - avg fee",,
+"DY Patil University, Navi Mumbai","6.4/10","Navi Mumbai, Maharashtra","NAAC-A","₹2.73 L / yr BAMS - avg fee",,"3.4 / 5 15 reviews"
+"College of Engineering, Anna University - [CEG], Chennai","6.4/10","Chennai, Tamil Nadu","AICTE, NAAC-A","-- M.Phil/Ph.D in Med...",,""
+"Dayanand Anglo Vaidik Mahavidyalaya - [DAV], Kanpur","6.4/10","Kanpur, Uttar Pradesh","AICTE, NAAC-B","₹7.23 K / yr B.Sc (Medicine) - ...",,""
+"Amrita Vishwa Vidyapeetham Kochi Campus, Kochi","6.4/10","Kochi, Kerala","PCI, AICTE, UGC, NAAC-A","₹1.1 L / yr B.Sc (Medicine) - ...",,"2.4 / 5 1 reviews"
+"Garden City University- [GCU], Bangalore","6.4/10","Bangalore, Karnataka","AICTE, UGC, NAAC-A","₹96 K / yr Bachelor of Physio...",,"3.8 / 5 20 reviews"
+"University of Rajasthan, Jaipur","6.3/10","Jaipur, Rajasthan","UGC","₹6.59 K / yr PG Diploma in Medi...",,""
+"West Bengal University of Health Sciences - [WBUHS], Kolkata","6.3/10","Kolkata, West Bengal","UGC","-- B.Sc (Medicine)",,""
+"Sri Balaji Vidyapeeth University - [SBV], Pondicherry","6.3/10","Pondicherry, Puducherry","NAAC, UGC","₹15 K / yr B.Sc (Medicine) - ...",,""
+"Goa University, North Goa","6.3/10","North Goa, Goa","UGC, NAAC-A, MHRD, AIU","₹89.1 K / yr BAMS - avg fee",,"3.6 / 5 5 reviews"
+"Nitte University, Mangalore","6.3/10","Mangalore, Karnataka","UGC, NAAC-A, MHRD","₹49 K / yr B.Sc (Medicine) - ...",,"3.8 / 5 19 reviews"
+"Swami Vivekanand Subharti University - [SVSU], Meerut","6.4/10","Meerut, Uttar Pradesh","NCTE, DCI, AICTE, PCI, INC","₹80.4 K / yr Bachelor of Physio...",,"3.5 / 5 9 reviews"
+"Geetanjali University - [GU], Udaipur","6.3/10","Udaipur, Rajasthan","DCI, INC, MCI, UGC","₹26.7 K / yr Bachelor of Physio...",,"3.4 / 5 6 reviews"
+"Dr. NTR University of Health Sciences - [NTRUHS], Vijayawada","6.3/10","Vijayawada, Andhra Pradesh","DCI, INC, MCI, UGC","₹21.6 K / yr BAMS - avg fee",,"3 / 5 1 reviews"
+"Bharathidasan University - [BU], Thiruchirapalli","6.3/10","Thiruchirapalli, Tamil Nadu","UGC, DEB","₹3 K / yr PG Diploma in Medi...",,""
+"Kerala Veterinary and Animal Sciences University - [KVASU] Pookode , Wayanad","6.3/10","Wayanad, Kerala","AICTE, UGC","₹47.2 K / yr Diploma in Medical...",,
+"Bhagwan Mahavir College of Pharmacy, Surat","6.3/10","Surat, Gujarat","PCI, AICTE","-- Bachelor of Physio...",,""
+"Regional Institute of Medical Sciences, Imphal","6.3/10","Imphal, Manipur","MCI","₹6.47 K / yr MBBS - avg fee",,"3 / 5 1 reviews"
+"Krishna Institute of Medical Sciences University - [KIMS], Satara","6.2/10","Satara, Maharashtra","DCI, MCI, UGC","₹9.4 L / yr MBBS - avg fee",,"3.4 / 5 1 reviews"
+"DAV College - [DAVC], Chandigarh","6.2/10","Chandigarh, Chandigarh","NAAC, UGC","₹21.9 K / yr Graduate Diploma i...",,""
+"Institute for Excellence in Higher Education - [IEHE], Bhopal","6.2/10","Bhopal, Madhya Pradesh","UGC, NAAC-A+","₹8 K / yr Diploma in Medical...",,""
+"ICFAI University, West Tripura","6.2/10","West Tripura, Tripura","AICTE, UGC","₹50 K / yr PG Diploma in Medi...",,""
+"Maharishi Markandeshwar University - [MMU] Mullana Campus, Ambala","6.2/10","Ambala, Haryana","AICTE, UGC, NAAC-A, AIU","₹57 K / yr B.Sc (Medicine) - ...",,"3.7 / 5 43 reviews"
+"Dr. M.G.R. Educational and Research Institute, Chennai","6.2/10","Chennai, Tamil Nadu","NBA, NAAC-A","₹85 K / yr Bachelor of Physio...",,"3.3 / 5 20 reviews"
+"Madurai Kamaraj University - [MKU], Madurai","6.2/10","Madurai, Tamil Nadu","UGC, NAAC-A","₹2.2 K / yr PG Diploma in Medi...",,""
+"Gulbarga University - [GU], Gulbarga","6.2/10","Gulbarga, Karnataka","UGC","₹5.72 K / yr PG Diploma in Medi...",,""
+"Shivaji University - [SUK], Kolhapur","6.2/10","Kolhapur, Maharashtra","UGC, NAAC-A","₹53.2 K / yr BHMS - avg fee",,""
+"University of Madras, Chennai","6.2/10","Chennai, Tamil Nadu","NAAC, UGC","₹9.51 K / yr MD - avg fee",,"3.6 / 5 12 reviews"
+"Saurashtra University, Rajkot","6.2/10","Rajkot, Gujarat","UGC, NAAC-A","₹40 K / yr PG Diploma in Medi...",,"2.9 / 5 2 reviews"
+"Hoogly Mohsin College Chinsurah, Hooghly","6.2/10","Hooghly, West Bengal","NAAC","₹1.7 K / yr B.Sc (Medicine) - ...",,""
+"Shree Guru Gobind Singh Tricentenary University - [SGT], Gurgaon","6.1/10","Gurgaon, Haryana","MCI, BCI, AICTE, UGC","₹3.91 L / yr BAMS - avg fee",,"4 / 5 16 reviews"
+"Kongunadu Arts and Science College, Coimbatore","6.1/10","Coimbatore, Tamil Nadu","UGC, NAAC-A","-- UG Diploma in Medi...",,"3.1 / 5 3 reviews"
+"Swami Ramanand Teerth Marathwada University - [SRTMUN], Nanded","6.1/10","Nanded, Maharashtra","UGC, NAAC-A","-- M.Phil/Ph.D in Med...",,""
+"People's University, Bhopal","6.1/10","Bhopal, Madhya Pradesh","PCI, INC, MCI, UGC","₹40 K / yr B.Sc (Medicine) - ...",,"3.3 / 5 13 reviews"
+"Vidyasagar University, Midnapore","6.1/10","Midnapore, West Bengal","UGC","₹1.82 K / yr M.Sc (Medicine) - ...",,""
+"Paramedical College, Durgapur","6.1/10","Durgapur, West Bengal","RCI, IAP","₹41.1 K / yr B.Sc (Medicine) - ...",,""
+"Melmaruvathur Adhiparasakthi Institute of Medical Sciences and Research - [MAPIMS], Kanchipuram","6.1/10","Kanchipuram, Tamil Nadu","MCI","₹28 K / yr Bachelor of Physio...",,""
+"Magadh University - [MU], Gaya","6.1/10","Gaya, Bihar","AICTE, NAAC, UGC","-- Bachelor of Physio...",,"2.5 / 5 2 reviews"
+"Adesh University, Bathinda","6.1/10","Bathinda, Punjab","DCI, MCI, UGC","₹35.8 K / yr Bachelor of Physio...",,""
+"Chettinad Academy of Research and Education, Kanchipuram","6.0/10","Kanchipuram, Tamil Nadu","MCI, NAAC, UGC","-- B.Sc (Nursing)",,"3.9 / 5 1 reviews"
+"Sree Uthradom Thirunal Academy of Medical Sciences Vattappara, Trivendrum","6.0/10","Trivendrum, Kerala","MCI","₹3.29 L / yr MBBS - avg fee",,
+"Lovely Professional University - [LPU], Jalandhar","6.0/10","Jalandhar, Punjab","NCTE, COA, PCI, IAP, BCI","₹93.4 K / yr Bachelor of Physio...",,"4 / 5 323 reviews"
+"Amity University, Gurgaon","6.0/10","Gurgaon, Haryana","RCI, COA, INC, BCI, AICTE","₹85.4 K / yr B.Sc (Medicine) - ...",,"3.6 / 5 16 reviews"
+"Panjab University - [PU], Chandigarh","6.0/10","Chandigarh, Chandigarh","AICTE, NAAC","₹41.1 K / yr M.Sc (Medicine) - ...",,""
+"Government M L B Girls PG College - [MLB], Bhopal","6.0/10","Bhopal, Madhya Pradesh","NAAC-A","₹12.8 K / yr B.Sc (Medicine) - ...",,""
+"Gujarat University - [GU], Ahmedabad","6.0/10","Ahmedabad, Gujarat","UGC, NAAC-B","₹90 K / yr Bachelor of Physio...",,"3.4 / 5 4 reviews"
+"RKDF University, Bhopal","6.0/10","Bhopal, Madhya Pradesh","NCTE, PCI, AICTE, UGC","₹1.36 L / yr BHMS - avg fee",,"3.5 / 5 8 reviews"
+"Amity University, Jaipur","6.0/10","Jaipur, Rajasthan","AICTE, UGC","₹80 K / yr M.Phil/Ph.D in Med...",,""
+"Chhatrapati Shahu Ji Maharaj University - [CSJM], Kanpur","6.0/10","Kanpur, Uttar Pradesh","UGC","₹53 K / yr Bachelor of Physio...",,"3.2 / 5 10 reviews"
+"University of Lucknow, Lucknow","6.0/10","Lucknow, Uttar Pradesh","AICTE, UGC","₹10 K / yr PG Diploma in Medi...",,""
+"Dolphin PG Institute of BioMedical & Natural Sciences, Dehradun","6.0/10","Dehradun, Uttarakhand","","₹65 K / yr Bachelor of Physio...",,""
+"VELS University, Chennai","6.0/10","Chennai, Tamil Nadu","AICTE, NAAC-B","₹81.6 K / yr Bachelor of Physio...",,"4.1 / 5 12 reviews"
+"Manipur University - [MU], Imphal","5.9/10","Imphal, Manipur","NAAC, UGC","₹21.8 K / yr MBBS - avg fee",,""
+"Amrita Vishwa Vidyapeetham Amritapuri Campus, Kollam","5.9/10","Kollam, Kerala","AICTE, UGC, NAAC-A","₹1.84 L / yr BAMS - avg fee",,"3.9 / 5 7 reviews"
+"Garware Institute of Career Education and Development - [GICED], Mumbai","5.9/10","Mumbai, Maharashtra","NAAC-A","₹32.2 K / yr PG Diploma in Medi...",,""
+"Bharath University, Chennai","5.9/10","Chennai, Tamil Nadu","AICTE, UGC, NAAC-A","-- Bachelor of Physio...",,"3.2 / 5 20 reviews"
+"Guru Jambheshwar University of Science and Technology - [GJUS&T], Hisar","5.9/10","Hisar, Haryana","DCI, AICTE, UGC, NAAC-A","₹33 K / yr Bachelor of Physio...",,"3.6 / 5 35 reviews"
+"Centurion University of Technology and Management - [CUTM], Bhubaneswar","5.9/10","Bhubaneswar, Orissa","AICTE, UGC, NAAC-A, AIU","₹75.5 K / yr B.Sc (Medicine) - ...",,"3.3 / 5 18 reviews"
+"Kalinga Institute of Industrial Technology - [KIIT], Bhubaneswar","5.9/10","Bhubaneswar, Orissa","DCI, INC, MCI, BCI, AICTE","₹10.7 L / yr MBBS - avg fee",,"4.2 / 5 158 reviews"
+"Jodhpur National University - [JNU], Jodhpur","5.9/10","Jodhpur, Rajasthan","DCI, BCI, AICTE, UGC, AIU","₹57.3 K / yr Bachelor of Physio...",,"2.9 / 5 7 reviews"
+"Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya - [SCSVMV University], Kanchipuram","5.9/10","Kanchipuram, Tamil Nadu","UGC, NAAC-B","₹2.52 L / yr BAMS - avg fee",,""
+"Galgotias University - [GU], Greater Noida","5.9/10","Greater Noida, Uttar Pradesh","AICTE, UGC","₹54.3 K / yr Bachelor of Physio...",,"3.4 / 5 97 reviews"
+"University of Kalyani, Kalyani","5.9/10","Kalyani, West Bengal","UGC","₹15.9 K / yr M.Phil/Ph.D in Med...",,""
+"RIMT University, Gobindgarh","5.8/10","Gobindgarh, Punjab","AICTE, UGC","₹41 K / yr B.Sc (Medicine) - ...",,"3.5 / 5 17 reviews"
+"Narendra Dev University of Agriculture and Technology - [NDUAT], Faizabad","5.8/10","Faizabad, Uttar Pradesh","ICAR, UGC","₹82.7 K / yr M.Phil/Ph.D in Med...",,
+"Kannur University, Kannur","5.7/10","Kannur, Kerala","NAAC-B","₹57.6 K / yr M.Sc (Medicine) - ...",,"2.9 / 5 1 reviews"
+"Alagappa University, Karaikudi","5.7/10","Karaikudi, Tamil Nadu","AICTE, NAAC, UGC","₹10.7 K / yr PG Diploma in Medi...",,""
+"Uttarakhand Open University - [UOU], Nainital","5.7/10","Nainital, Uttarakhand","","₹5.93 K / yr UG Diploma in Medi...",,""
+"Minerva College of Architecture Ambi, Pune","5.7/10","Pune, Maharashtra","AICTE","-- UG Diploma in Medi...",,
+"Kuvempu University, Shimoga","5.7/10","Shimoga, Karnataka","UGC","₹5.03 K / yr PG Diploma in Medi...",,""
+"Himachal Pradesh University - [HPU], Shimla","5.7/10","Shimla, Himachal Pradesh","NAAC-A","₹13.8 K / yr BAMS - avg fee",,"3 / 5 6 reviews"
+"Mahatma Gandhi University - [MGU], Kottayam","5.7/10","Kottayam, Kerala","NAAC, UGC","₹80 K / yr BAMS - avg fee",,"3.4 / 5 1 reviews"
+"Assam Down Town University - [ADTU], Guwahati","5.7/10","Guwahati, Assam","UGC","₹76.7 K / yr B.Sc (Medicine) - ...",,"4.6 / 5 1 reviews"
+"Rai Technology University - [RTU], Bangalore","5.7/10","Bangalore, Karnataka","ICAR, UGC","₹40 K / yr UG Diploma in Medi...",,""
+"Hemchandracharya North Gujarat University - [HNGU], Patan","5.7/10","Patan, Gujarat","UGC, NAAC-A","₹4 K / yr PG Diploma in Medi...",,""
+"Dr DY Patil Vidyapeeth - [DPU], Pune","5.7/10","Pune, Maharashtra","NAAC, UGC, MHRD, AIU","₹1.56 L / yr Bachelor of Physio...",,"3.9 / 5 1 reviews"
+"Indira Gandhi National Tribal University - [IGNTU], Anuppur","5.7/10","Anuppur, Madhya Pradesh","UGC","₹3.4 K / yr PG Diploma in Medi...",,
+"Dev Sanskriti Vishwavidyalaya - [DSVV], Haridwar","5.7/10","Haridwar, Uttarakhand","NCTE, NAAC, UGC","₹40 K / yr PG Diploma in Medi...",,""
+"Navsari Agricultural University, Navsari","5.7/10","Navsari, Gujarat","AICTE, ICAR","₹21.8 K / yr M.Sc (Medicine) - ...",,
+"All India Institute of Speech and Hearing - [AIISH], Mysore","5.6/10","Mysore, Karnataka","RCI, NAAC-A","₹9.85 K / yr B.Sc (Medicine) - ...",,""
+"Atal Bihari Vajpayee Hindi Vishwavidyalaya - [ABVHV], Bhopal","5.6/10","Bhopal, Madhya Pradesh","UGC","₹3 K / yr PG Diploma in Medi...",,""
+"Sarvepalli Radhakrishnan University - [SRK], Bhopal","5.6/10","Bhopal, Madhya Pradesh","MCI, AICTE, UGC","₹54 K / yr BHMS - avg fee",,"4.3 / 5 1 reviews"
+"Institute of Applied Medicines and Research - [IAMR], Ghaziabad","5.6/10","Ghaziabad, Uttar Pradesh","IAP, UGC","-- Bachelor of Physio...",,""
+"Sophia Nursing College, Gwalior","5.6/10","Gwalior, Madhya Pradesh","INC","₹90 K / yr B.Sc (Nursing) - a...",,
+"Tripura University, West Tripura","5.6/10","West Tripura, Tripura","NAAC-B","₹2.7 K / yr M.Sc (Medicine) - ...",,""
+"DRIEMS Group of Institutions, Cuttack","5.6/10","Cuttack, Orissa","AICTE, NBA, NAAC-A","₹72 K / yr UG Diploma in Medi...",,""
+"BR Ambedkar Bihar University - [BRABU], Muzaffarpur","5.6/10","Muzaffarpur, Bihar","NAAC, UGC, AIU","₹6 K / yr B.Sc (Medicine) - ...",,"1.3 / 5 1 reviews"
+"Government Degree College, Chhatarpur","5.5/10","Chhatarpur, Madhya Pradesh","NAAC-B","₹8.93 K / yr B.Sc (Medicine) - ...",,""
+"Punjabi University - [PU], Patiala","5.5/10","Patiala, Punjab","UGC, NAAC-A","₹55 K / yr Bachelor of Physio...",,"3.8 / 5 16 reviews"
+"BFIT Group of Institutions, Dehradun","5.5/10","Dehradun, Uttarakhand","AICTE, NAAC, UGC","₹48.9 K / yr M.Sc (Medicine) - ...",,""
+"Career College, Bhopal","5.4/10","Bhopal, Madhya Pradesh","NAAC-A","₹33 K / yr B.Sc (Medicine) - ...",,"3.7 / 5 3 reviews"
+"Mohanlal Sukhadia University - [MLSU], Udaipur","5.4/10","Udaipur, Rajasthan","PCI, BCI, AICTE, UGC, NAAC-A","₹20 K / yr PG Diploma in Medi...",,""
+"Annie Besant College of Engineering And Management - [ABCEM], Lucknow","5.4/10","Lucknow, Uttar Pradesh","AICTE","₹4.1 K / yr B.Sc (Medicine) - ...",,
+"Saveetha Dental College & Hospital, Chennai","5.4/10","Chennai, Tamil Nadu","DCI","₹1.6 L / yr M.Phil/Ph.D in Med...",,""
+"Gujarat Technological University - [GTU], Ahmedabad","5.4/10","Ahmedabad, Gujarat","PCI, NBA","₹25.4 K / yr M.Phil/Ph.D in Med...",,""
+"Chandigarh University - [CU], Chandigarh","5.4/10","Chandigarh, Chandigarh","AICTE, UGC, AIU","₹99 K / yr Bachelor of Physio...",,"4.1 / 5 66 reviews"
+"Saveetha University, Chennai","5.4/10","Chennai, Tamil Nadu","NAAC, UGC","₹63.8 K / yr Bachelor of Physio...",,"3.9 / 5 23 reviews"
+"Babasaheb Bhimrao Ambedkar University - [BBAU], Lucknow","5.4/10","Lucknow, Uttar Pradesh","UGC, NAAC-A, MHRD","₹57 K / yr M.Sc (Medicine) - ...",,""
+"Dr. Ram Manohar Lohia Avadh University - [RMLAU], Faizabad","5.4/10","Faizabad, Uttar Pradesh","AICTE, NAAC, UGC","₹7.2 K / yr PG Diploma in Medi...",,""
+"Institute of Para Medical Technology - [IPMT], New Delhi","5.4/10","New Delhi, Delhi NCR","PCI, AICTE","₹32 K / yr UG Diploma in Medi...",,""
+"Amity University, Lucknow","5.4/10","Lucknow, Uttar Pradesh","AICTE, UGC, NAAC-A","₹1.55 L / yr PG Diploma in Medi...",,""
+"Mahatma Gandhi University - [MGU], Ri-Bhoi","5.4/10","Ri-Bhoi, Meghalaya","BCI, UGC, DEB, AIU","₹18.5 K / yr B.Sc (Medicine) - ...",,""
+"Dr. Hari Singh Gour University, Sagar","5.3/10","Sagar, Madhya Pradesh","NAAC-A","₹19.8 K / yr B.Sc (Medicine) - ...",,""
+"Uttarakhand Technical University, Dehradun","5.3/10","Dehradun, Uttarakhand","AICTE, UGC","₹23.6 K / yr M.Sc (Medicine) - ...",,""
+"Rashtrasant Tukadoji Maharaj Nagpur University - [RTMNU], Nagpur","5.3/10","Nagpur, Maharashtra","UGC, NAAC-A, AIU","₹27 K / yr M.Ch - avg fee",,"3.8 / 5 35 reviews"
+"Maharaja Ranjit Singh Punjab Technical University -[MRSPTU], Bathinda","5.2/10","Bathinda, Punjab","AICTE, UGC","₹48.5 K / yr B.Sc (Medicine) - ...",,""
+"Khalsa College, Amritsar","5.2/10","Amritsar, Punjab","","₹62.9 K / yr Bachelor of Physio...",,"4.2 / 5 3 reviews"
+"Apeejay Stya University - [ASU], Gurgaon","5.2/10","Gurgaon, Haryana","UGC","₹1.7 L / yr PG Diploma in Medi...",,"3.9 / 5 12 reviews"
+"Sam Higginbottom University of Agriculture Technology and Sciences - [SHUATS], Allahabad","5.2/10","Allahabad, Uttar Pradesh","NCTE, ICAR, UGC, NAAC-A","₹55.1 K / yr B.Sc (Medicine) - ...",,"3.5 / 5 25 reviews"
+"Mangalore University, Mangalore","5.2/10","Mangalore, Karnataka","UGC, NAAC-A","₹51.2 K / yr M.Sc (Medicine) - ...",,"4.4 / 5 1 reviews"
+"College of Commerce, Arts & Science, Patna","5.2/10","Patna, Bihar","AICTE","-- UG Diploma in Medi...",,""
+"Arunachal University of Studies - [AUS], Lohit","5.2/10","Lohit, Arunachal Pradesh","UGC","₹44 K / yr Bachelor of Physio...",,""
+"Government Motilal Vigyan Mahavidyalaya, Bhopal","5.1/10","Bhopal, Madhya Pradesh","NAAC-A","₹6.66 K / yr B.Sc (Medicine) - ...",,""
+"Aryabhatta Knowledge University - [AKU], Patna","5.1/10","Patna, Bihar","UGC","₹8.06 K / yr BAMS - avg fee",,""
+"Patna University - [PU], Patna","5.1/10","Patna, Bihar","BCI, AICTE, UGC, DEB","₹8.5 K / yr PG Diploma in Medi...",,""
+"Jayoti Vidyapeeth Women's University - [JVWU], Jaipur","5.1/10","Jaipur, Rajasthan","NCTE, PCI, CCH, CCIM, BCI","₹3.82 L / yr BAMS - avg fee",,"3.4 / 5 5 reviews"
+"University of Kerala - [KU], Thiruvananthapuram","5.1/10","Thiruvananthapuram, Kerala","UGC, NAAC-A","₹17.2 K / yr M.Phil/Ph.D in Med...",,""
+"Karnatak University - [KU], Dharwad","5.0/10","Dharwad, Karnataka","UGC, NAAC-A","₹4.22 K / yr PG Diploma in Medi...",,""
+"Dayanand Brajendra Swarup College - [DBS], Kanpur","4.9/10","Kanpur, Uttar Pradesh","UGC","₹7.23 K / yr B.Sc (Medicine) - ...",,""
+"Nalanda Open University - [NOU], Patna","4.9/10","Patna, Bihar","UGC","₹4.4 K / yr PG Diploma in Medi...",,"2.8 / 5 1 reviews"
+"University of Engineering and Management - [UEM Jaipur], Jaipur","4.9/10","Jaipur, Rajasthan","AICTE, UGC, AIU","₹50 K / yr Bachelor of Physio...",,""
+"University of Burdwan, Bardhaman","4.9/10","Bardhaman, West Bengal","AICTE, UGC, NAAC-B, AIU","-- B.Sc (Medicine)",,"2.5 / 5 4 reviews"
+"Dr NGP Arts and Science College, Coimbatore","4.9/10","Coimbatore, Tamil Nadu","NAAC, UGC","-- PG Diploma in Medi...",,"3.9 / 5 4 reviews"
+"Rammohan College, Kolkata","4.9/10","Kolkata, West Bengal","NAAC-B","₹38.7 K / yr B.Sc (Medicine) - ...",,""
+"Vidyasagar College, Kolkata","4.9/10","Kolkata, West Bengal","NAAC","₹5.45 K / yr B.Sc (Medicine) - ...",,""
+"Bangalore University - [BU], Bangalore","4.9/10","Bangalore, Karnataka","UGC","₹10 K / yr B.Sc (Medicine) - ...",,"4.1 / 5 5 reviews"
+"Punjab College of Technical Education - [PCTE], Ludhiana","4.9/10","Ludhiana, Punjab","AICTE","₹48 K / yr B.Sc (Medicine) - ...",,""
+"RP Inderaprastha Institute of Technology - [RPIIT], Karnal","4.8/10","Karnal, Haryana","AICTE","-- Bachelor of Physio...",,""
+"Surendra Group of Institutions - [SGI], Ganganagar","4.8/10","Ganganagar, Rajasthan","AICTE","-- Bachelor of Physio...",,
+"Sri Siddhartha University, Tumkur","4.8/10","Tumkur, Karnataka","UGC","₹400 / yr MBBS - avg fee",,""
+"Gautam Buddha University - [GBU], Greater Noida","4.8/10","Greater Noida, Uttar Pradesh","RCI, COA, BCI, NAAC, UGC","₹34 K / yr M.Sc (Medicine) - ...",,""
+"Tantia University, Sriganganagar","4.8/10","Sriganganagar, Rajasthan","INC, CCH, BCI, AICTE, UGC","₹2.36 L / yr BAMS - avg fee",,""
+"Dr. Shakuntala Misra National Rehabilitation University, Lucknow","4.8/10","Lucknow, Uttar Pradesh","AICTE, UGC","₹37.1 K / yr B.Sc (Medicine) - ...",,
+"Mahatma Gandhi Kashi Vidyapith - [MGKV], Varanasi","4.7/10","Varanasi, Uttar Pradesh","NAAC, UGC","₹17.5 K / yr PG Diploma in Medi...",,""
+"Tilak Maharashtra Vidyapeeth - [TMV], Pune","4.6/10","Pune, Maharashtra","NCTE, AICTE","₹86 K / yr Bachelor of Physio...",,"3.1 / 5 2 reviews"
+"Stella Maris College, Chennai","4.6/10","Chennai, Tamil Nadu","NAAC, UGC","₹2 K / yr PG Diploma in Medi...",,""
+"Dr B Lal Institute of Biotechnology, Jaipur","4.6/10","Jaipur, Rajasthan","AICTE","₹84 K / yr UG Diploma in Medi...",,""
+"Institute of Public Health and Hygiene - [IPHH], New Delhi","4.6/10","New Delhi, Delhi NCR","","-- B.Sc (Medicine)",,""
+"Dr. K.N. Modi University - [DKNMU] Newai, Tonk","4.6/10","Tonk, Rajasthan","AICTE, UGC","₹53.5 K / yr Diploma in Medical...",,""
+"Parul University, Vadodara","4.6/10","Vadodara, Gujarat","COA, PCI, INC, GNC, MCI","₹2.23 L / yr BAMS - avg fee",,"3.6 / 5 15 reviews"
+"C. U. Shah University, Wadhwan","4.6/10","Wadhwan, Gujarat","NCTE, PCI, BCI, AICTE, NAAC","₹35.8 K / yr B.Sc - avg fee",,""
+"West Bengal State University - [WBSU], Barasat","4.8/10","Barasat, West Bengal","UGC","₹3.45 K / yr B.Sc (Medicine) - ...",,""
+"Sardar Patel University - [SPU], Vallabh Vidyanagar","4.3/10","Vallabh Vidyanagar, Gujarat","AICTE","₹12.7 K / yr M.Phil/Ph.D in Med...",,""
+"Veer Narmad South Gujarat University - [VNSGU], Surat","4.3/10","Surat, Gujarat","","₹3 L / yr MBBS - avg fee",,"3.8 / 5 10 reviews"
+"Deshbandhu College for Girls, Kolkata","4.3/10","Kolkata, West Bengal","NAAC","-- B.Sc (Medicine)",,
+"Integral University, Lucknow","4.3/10","Lucknow, Uttar Pradesh","PCI, MCI, NAAC, UGC","₹75 K / yr B.Sc (Medicine) - ...",,"3.5 / 5 28 reviews"
+"The IIS University - [IISU], Jaipur","4.1/10","Jaipur, Rajasthan","UGC, NAAC-A","-- B.Sc (Medicine)",,"4.4 / 5 24 reviews"
+"Meenakshi Academy of Higher Education and Research - [MAHER], Chennai","4.1/10","Chennai, Tamil Nadu","NAAC, UGC","-- Bachelor of Physio...",,"1.4 / 5 1 reviews"
+"Ananda Mohan College - [AMC], Kolkata","3.8/10","Kolkata, West Bengal","NAAC","₹3.62 K / yr B.Sc (Medicine) - ...",,""
+"Mahatma Jyoti Rao Phoole University - [MJRP], Jaipur","3.8/10","Jaipur, Rajasthan","NCTE, PCI, BCI, AICTE, UGC","₹35.3 K / yr B.Sc (Medicine) - ...",,"3.3 / 5 14 reviews"
+"Rani Durgavati Vishwavidyalaya, Jabalpur","3.7/10","Jabalpur, Madhya Pradesh","UGC, NAAC-B","₹6.2 K / yr PG Diploma in Medi...",,""
+"Royal PG College, Lucknow","3.3/10","Lucknow, Uttar Pradesh","","-- B.Sc (Medicine)",,""
+"ADN Medical College and Paramedical Science, Nagpur","","Nagpur, Maharashtra","UGC","₹12 K / yr M.Sc (Medicine) - ...",,
+"AWH Special College, Calicut","","Calicut, Kerala","RCI","₹94.9 K / yr B.Sc (Medicine) - ...",,""
+"Acharya Brojendra Nath Seal College, Cooch Behar","","Cooch Behar, West Bengal","NAAC, UGC","₹2.48 K / yr B.Sc (Medicine) - ...",,""
+"Ananda Chandra College, Jalpaiguri","","Jalpaiguri, West Bengal","UGC, NAAC-B","₹10.5 K / yr B.Sc (Medicine) - ...",,
+"Annai Violet Arts and Science College, Chennai","","Chennai, Tamil Nadu","AICTE, NAAC","-- UG Diploma in Medi...",,
+"PDEA's Annasaheb Magar College, Pune","","Pune, Maharashtra","NAAC","-- B.Sc (Medicine)",,
+"Apex International College, Amritsar","","Amritsar, Punjab","AICTE","-- UG Diploma in Medi...",,""
+"BBK DAV College for Women, Amritsar","","Amritsar, Punjab","NAAC, UGC","₹35 K / yr UG Diploma in Medi...",,
+"Bajkul Milani Mahavidyalaya, Medinipur","","Medinipur, West Bengal","NAAC-B","₹8.89 K / yr B.Sc (Medicine) - ...",,
+"Bankura Christian College - [BCC], Bankura","","Bankura, West Bengal","NAAC-A","-- B.Sc (Medicine)",,""
+"Bareilly College, Bareilly","","Bareilly, Uttar Pradesh","UGC, NAAC-A","-- UG Diploma in Medi...",,""
+"Basirhat College, North 24 Parganas","","North 24 Parganas, West Bengal","UGC","-- B.Sc (Medicine)",,""
+"Berhampore Girls College, Murshidabad","","Murshidabad, West Bengal","NAAC, UGC","₹7.94 K / yr B.Sc (Medicine) - ...",,
+"Bhairab Ganguly College, Kolkata","","Kolkata, West Bengal","NAAC-A","₹1.66 K / yr B.Sc (Medicine) - ...",,""
+"Bhuwaneshwari Dayal College - [BDC] Mithapur, Patna","","Patna, Bihar","AICTE, UGC, NAAC-B","-- B.Sc (Medicine)",,""
+"DBS PG College, Dehradun","","Dehradun, Uttarakhand","NAAC, UGC","-- UG Certificate in ...",,""
+"Dantuluri Narayana Raju college - [DNR], Godavari","","Godavari, Andhra Pradesh","NAAC, NAAC-A","₹1.8 K / yr UG Certificate in ...",,""
+"Dr. Kanailal Bhattacharyya College, Howrah","","Howrah, West Bengal","NAAC-B","₹5.64 K / yr B.Sc (Medicine) - ...",,
+"Garhbeta College, Medinipur","","Medinipur, West Bengal","NCTE, NAAC","₹4.88 K / yr B.Sc (Medicine) - ...",,""
+"Goutham College, Bangalore","","Bangalore, Karnataka","INC, AICTE","₹40 K / yr BAMS - avg fee",,""
+"Government Degree College (Men) - [GDCSKLM], Srikakulam","","Srikakulam, Andhra Pradesh","NAAC-B","-- UG Certificate in ...",,
+"Government Girl's Degree College, Nainital","","Nainital, Uttarakhand","NAAC","-- PG Diploma in Medi...",,
+"Government College for Women, Thiruvananthapuram","","Thiruvananthapuram, Kerala","NAAC","-- B.Sc (Medicine)",,
+"Govt Degree College Women, Srikakulam","","Srikakulam, Andhra Pradesh","UGC, NAAC-A","₹400 / yr UG Certificate in ...",,
+"Guru Nanak Girls College, Yamuna Nagar","","Yamuna Nagar, Haryana","","-- B.Sc (Medicine)",,
+"Hawabagh Women's College, Jabalpur","","Jabalpur, Madhya Pradesh","NCTE","-- B.Sc (Medicine)",,
+"Holy Cross College (Autonomous), Thiruchirapalli","","Thiruchirapalli, Tamil Nadu","NAAC-A","₹868 / yr B.Sc (Medicine) - ...",,"3.8 / 5 2 reviews"
+"Indian Institute of Public Health, Ahmedabad","","Ahmedabad, Gujarat","","₹1 L / yr Certificate in Med...",,""
+"Indian Institute of Public Health - [IIPH], Gurgaon","","Gurgaon, Haryana","AICTE","₹36 K / yr PG Diploma in Medi...",,""
+"Indian Management Academy - [IMA], Ahmedabad","","Ahmedabad, Gujarat","AICTE, UGC","-- M.Phil/Ph.D in Med...",,
+"Jamshedpur Women's College, Jamshedpur","","Jamshedpur, Jharkhand","NAAC-A","₹10 K / yr PG Diploma in Medi...",,""
+"Jaya College of Arts and Science - [JCAS], Chennai","","Chennai, Tamil Nadu","AICTE","-- UG Certificate in ...",,""
+"Jhargram Raj College, Midnapore","","Midnapore, West Bengal","NAAC-B","₹893 / yr B.Sc (Medicine) - ...",,
+"Jhunjhunwala Post Graduate College - [JPGC], Faizabad","","Faizabad, Uttar Pradesh","NAAC-B","-- B.Sc (Medicine)",,
+"Kaivalyadhama Yoga Institute, Pune","","Pune, Maharashtra","","₹21 K / yr PG Diploma in Medi...",,
+"Kalyani Mahavidyalaya, Nadia","","Nadia, West Bengal","UGC","₹2.57 K / yr B.Sc (Medicine) - ...",,""
+"Katwa College, Bardhaman","","Bardhaman, West Bengal","NAAC-B","-- B.Sc (Medicine)",,""
+"Maharani Kishori Jat Kanya Mahavidyalya, Rohtak","","Rohtak, Haryana","NAAC, UGC","-- PG Diploma in Medi...",,
+"National Institute of Speech and Hearing, Thiruvananthapuram","","Thiruvananthapuram, Kerala","RCI","₹67.5 K / yr B.Sc (Medicine) - ...",,""
+"Nitte Institute of Speech and Hearing - [NISH], Mangalore","","Mangalore, Karnataka","RCI","-- B.Sc (Medicine)",,
+"PB Siddhartha College Arts and Science, Vijayawada","","Vijayawada, Andhra Pradesh","AICTE, UGC, NAAC-A","-- UG Certificate in ...",,""
+"PK Roy Memorial College, Dhanbad","","Dhanbad, Jharkhand","UGC, NAAC-B","₹3 K / yr PG Diploma in Medi...",,""
+"PNG Government PG College, Nainital","","Nainital, Uttarakhand","NCTE, NAAC, UGC","₹5.33 K / yr PG Diploma in Medi...",,
+"Panskura Banamali College, Midnapore","","Midnapore, West Bengal","NAAC-A","₹1.59 K / yr B.Sc (Medicine) - ...",,""
+"Premier College of Arts Commerce Science and Management Studies, Raigarh","","Raigarh, Maharashtra","AICTE, UGC","₹5 K / yr PG Diploma in Medi...",,
+"Raja Narendra Lal Khan Women's College - [RNLKWC], Medinipur","","Medinipur, West Bengal","NAAC-A","₹4.5 K / yr B.Sc (Medicine) - ...",,"5 / 5 1 reviews"
+"Saheed Mahilal Institute, Palwal","","Palwal, Haryana","UGC","-- PG Diploma in Medi...",,
+"Siddhi Vinayak College of Profestional Studies, Panipat","","Panipat, Haryana","","-- MBBS",,""
+"Sikh National College, Nawanshahr","","Nawanshahr, Punjab","","-- PG Diploma in Medi...",,
+"Parvatibai Chowgule College of Arts and Science, Salcete","","Salcete, Goa","NAAC-A","₹58.9 K / yr PG Diploma in Medi...",,""
+"St Aloysius College, Jabalpur","","Jabalpur, Madhya Pradesh","NAAC, UGC","-- B.Sc (Medicine)",,""
+"St Paul's Cathedral Mission College, Kolkata","","Kolkata, West Bengal","NAAC","₹1.66 K / yr B.Sc (Medicine) - ...",,""
+"St. Philomena College - [SPC], Puttur","","Puttur, Karnataka","UGC, NAAC-A","-- Diploma in Medical",,
+"St. Philomena's College, Mysore","","Mysore, Karnataka","UGC, NAAC-A","-- Diploma in Medical",,""
+"Surendranath College, Kolkata","","Kolkata, West Bengal","NAAC, UGC","₹5.25 K / yr B.Sc (Medicine) - ...",,""
+"Suri Vidyasagar College - [SVC], Birbhum","","Birbhum, West Bengal","UGC","₹2.69 K / yr B.Sc (Medicine) - ...",,""
+"Swami Vivekanand Institute of Management - [SVIM], Haridwar","","Haridwar, Uttarakhand","AICTE","-- UG Diploma in Medi...",,""
+"Tamralipta Mahavidyalaya, Medinipur","","Medinipur, West Bengal","UGC, NAAC-A","₹2.12 K / yr B.Sc (Medicine) - ...",,
+"Tararani Vidyapeeth's Kamala College, Kolhapur","","Kolhapur, Maharashtra","NAAC","-- PG Diploma in Medi...",,
+"The Zamorins Guruvayurappan College - [ZGC], Kozhikode","","Kozhikode, Kerala","NAAC-B","₹45 K / yr M.Sc (Medicine) - ...",,
+"VNS College of Arts and Science - [VNSC] Konni , Pathanamthitta","","Pathanamthitta, Kerala","AICTE, UGC","₹33 K / yr B.Sc (Medicine) - ...",,""
+"Vikas Night College of Arts Science and Commerce, Mumbai","","Mumbai, Maharashtra","NAAC","-- B.Sc (Medicine)",,""
+"Womens College, Agartala","","Agartala, Tripura","NAAC","-- B.Sc (Medicine)",,
+"Zulal Bhilajirao Patil College, Dhule","","Dhule, Maharashtra","NAAC, UGC","₹1.25 K / yr UG Diploma in Medi...",,""
+"United Theological College - [UTC], Bangalore","","Bangalore, Karnataka","","₹25 K / yr UG Certificate in ...",,
+"Apeejay College of Fine Arts - [ACFA], Jalandhar","","Jalandhar, Punjab","UGC, NAAC-A","₹54.2 K / yr Bachelor of Physio...",,""
+"Anushree Homoeopathic Medical College - [AHMC], Jabalpur","","Jabalpur, Madhya Pradesh","DCI","₹34 K / yr BHMS - avg fee",,
+"Arihant Homoeopathic Medical College, Hospital & Research Centre, Barwani","","Barwani, Madhya Pradesh","AICTE, UGC","₹25.5 K / yr BHMS - avg fee",,
+"Assam Govt Homoeopathic Medical College and Hospital - [AHMCH], Nagaon","","Nagaon, Assam","","-- BAMS",,
+"ANSS Homeo Medical College, Kottayam","","Kottayam, Kerala","CCH","₹3.16 K / yr BHMS - avg fee",,
+"Bakson Homoeopathic Medical College and Hospital - [BHMCH], Greater Noida","","Greater Noida, Uttar Pradesh","UGC","-- BHMS",,""
+"Baroda Homeopathic Medical College - [BHMC], Vadodara","","Vadodara, Gujarat","CCH","₹92 K / yr BHMS - avg fee",,
+"Bhagawan Buddha Homeopathic Medical College and Hospital, Bangalore","","Bangalore, Karnataka","MCI","₹72 K / yr BHMS - avg fee",,
+"Burdwan Homoeopathic Medical College and Hospital Nutanganj, Bardhaman","","Bardhaman, West Bengal","AICTE","₹64.4 K / yr BHMS - avg fee",,
+"Chandola Homoeopathic Medical College and Hospital, Udham Singh Nagar","","Udham Singh Nagar, Uttarakhand","NAAC","-- BHMS",,"4 / 5 1 reviews"
+"DKMM Homoeopathic Medical College & Hospital, Aurangabad","","Aurangabad, Maharashtra","AICTE","₹62.4 K / yr BHMS - avg fee",,"4.6 / 5 1 reviews"
+"District Homoeopathic Medical College and Hospital - [DHMCH], Ratlam","","Ratlam, Madhya Pradesh","CCH","₹56.1 K / yr BHMS - avg fee",,""
+"Dr. Abhin Chandra Homoeopathic Medical College, Bhubaneswar","","Bhubaneswar, Orissa","MCI","₹5 K / yr BHMS - avg fee",,""
+"Dr. B.D. Jatti Homoeopathic Medical College, Dharwad","","Dharwad, Karnataka","CCH","-- BHMS",,""
+"Dr CC Mattei Electro Homoeopathic Alternative Medical College, Hyderabad","","Hyderabad, Telangana","AICTE","-- BHMS",,""
+"Dr. Padiyar Memorial Homoeopathic Medical College Chottanikkara , Ernakulam","","Ernakulam, Kerala","CCH","₹3.24 K / yr BHMS - avg fee",,
+"Dr RB Singh Gaya Homoeopathic Medical College & Hospital - [RBSGHMCH], Gaya","","Gaya, Bihar","CCH","-- BHMS",,
+"EB Gadkari Homoeopathic Medical College - [EBGHMC], Kolhapur","","Kolhapur, Maharashtra","CCH","₹40 K / yr BHMS - avg fee",,""
+"Government Homoeopathic Medical College, Calicut","","Calicut, Kerala","","-- MD",,
+"Bharati Vidyapeeth University, Homoeopathic Medical College, Pune","","Pune, Maharashtra","NAAC-A","-- BHMS",,""
+"Homoeopathic Medical College & Hospital, Chandigarh","","Chandigarh, Chandigarh","CCH","₹85 K / yr BHMS - avg fee",,
+"JR Kissan Homoeopathic Medical College and Hospital, Rohtak","","Rohtak, Haryana","","-- BHMS",,
+"Lord Mahavira Homoeopathic Medical College and Hospital, Ludhiana","","Ludhiana, Punjab","AICTE","-- BHMS",,""
+"Magadh Homoeopathic Medical College - [MHMC], Nalanda","","Nalanda, Bihar","NAAC-B","₹31.8 K / yr BHMS - avg fee",,
+"Midnapore Homoeopathic Medical College and Hospital - [MHMCH], Midnapore","","Midnapore, West Bengal","CCH","₹3.38 K / yr BHMS - avg fee",,
+"Motiwala homeopathic medical college, Nashik","","Nashik, Maharashtra","CCH","₹46.2 K / yr BHMS - avg fee",,"5 / 5 1 reviews"
+"National Institute of Homeopathy - [NIH], Kolkata","","Kolkata, West Bengal","AICTE","₹19.6 K / yr BHMS - avg fee",,""
+"Dr DY Patil Homeopathic Medical College and Research Centre, Pune","","Pune, Maharashtra","NAAC-A","₹61 K / yr BHMS - avg fee",,""
+"RVS Homoeopathic Medical College and Hospital - [RVSHMCH], Coimbatore","","Coimbatore, Tamil Nadu","CCH, CCIM","₹31.8 K / yr BHMS - avg fee",,
+"Shri Mahalaxmi Mahila Homoeopathic Medical College, Vadodara","","Vadodara, Gujarat","","-- BHMS",,
+"Solan Homoeopathic Medical College and Hospital - [SHMCH], Solan","","Solan, Himachal Pradesh","CCH","-- BHMS",,
+"Sri Sai Ram Homoeopathy Medical College and Research Centre, Chennai","","Chennai, Tamil Nadu","CCH","-- BHMS",,
+"Sri Sai Ram Medical College for Siddha Ayurveda and Homoeopathy, Chennai","","Chennai, Tamil Nadu","","-- BAMS",,""
+"AVS Ayurveda Mahavidyalaya, Bijapur","","Bijapur, Karnataka","CCIM","₹37.2 K / yr BAMS - avg fee",,
+"Acharya Deshabhushan Ayurvedic Medical College and Hospital, Belgaum","","Belgaum, Karnataka","UGC","-- BAMS",,
+"Ahalia Ayurveda Medical College - [AAMC], Palakkad","","Palakkad, Kerala","CCIM","₹45 K / yr BAMS - avg fee",,
+"Anugraha School of Ayurveda Nursing, Pathanamthitta","","Pathanamthitta, Kerala","UGC","-- MD",,
+"Ayurved Mahavidyalaya & Seth R. V. Ayurved Hospital, Sion, Mumbai","","Mumbai, Maharashtra","","-- BAMS",,""
+"Ayurvedic and Unani Tibbia College, New Delhi","","New Delhi, Delhi NCR","AICTE","₹1.62 K / yr BAMS - avg fee",,""
+"Bapuji Ayurvedic Medical College and Hospital, Bangalore","","Bangalore, Karnataka","CCIM","₹28.6 K / yr BAMS - avg fee",,
+"Bharati Vidyapeeth College of Ayurved - [BVCA], Pune","","Pune, Maharashtra","CCIM, NAAC-A","₹1.85 L / yr BAMS - avg fee",,"3.8 / 5 1 reviews"
+"DGM Ayurvedic Medical College, Gadag","","Gadag, Karnataka","CCIM","₹16.9 K / yr BAMS - avg fee",,"4.5 / 5 1 reviews"
+"Dr. B.N.M. Rural Ayurvedic Medical College, Bijapur","","Bijapur, Karnataka","IAP","-- BAMS",,""
+"Dr DY Patil College of Ayurved, Navi Mumbai","","Navi Mumbai, Maharashtra","NAAC","-- BAMS",,
+"Gaur Brahman Ayurvedic College, Rohtak","","Rohtak, Haryana","CCIM","₹66 K / yr BAMS - avg fee",,
+"Guru Nanak Ayurvedic Medical College and Research Institute, Ludhiana","","Ludhiana, Punjab","CCIM","₹80 K / yr BAMS - avg fee",,
+"Indian Institute of Ayurvedic Medicine and Research - [IIAMR], Bangalore","","Bangalore, Karnataka","CCIM","-- BAMS",,
+"Jammu Institute of Ayurveda and Research College - [JIAR], Jammu","","Jammu, Jammu and Kashmir","MCI","-- BAMS",,"3.7 / 5 1 reviews"
+"KMCT Ayurveda Medical College Manassery, Kozhikode","","Kozhikode, Kerala","CCIM","₹46.2 K / yr BAMS - avg fee",,
+"National Institute of Tuberculosis and Respiratory Diseases -[NITRD], New Delhi","","New Delhi, Delhi NCR","MHRD","₹80 K / yr Diplomate National...",,
+"Muniyal Institute of Ayurveda Medical Sciences, Manipal","","Manipal, Karnataka","CCIM","-- BAMS",,"3.9 / 5 1 reviews"
+"Murari Lal Rasiwasia Ayurvedic College, Bhiwani","","Bhiwani, Haryana","CCIM","-- BAMS",,
+"Nangelil Ayurveda Medical College, Ernakulam","","Ernakulam, Kerala","CCIM","₹50 K / yr BAMS - avg fee",,
+"National Institute of Ayurveda, Jaipur","","Jaipur, Rajasthan","AICTE","-- BAMS",,""
+"National Institute of Siddha - [NIS], Chennai","","Chennai, Tamil Nadu","UGC","₹40 K / yr MD - avg fee",,
+"PN Panicker Souhruda Ayurveda Medical College, Kasaragod","","Kasaragod, Kerala","","₹50 K / yr BAMS - avg fee",,
+"Poomulli Neelakandan Namboodiripad Memorial Ayurveda Medical College - [PNNM], Palakkad","","Palakkad, Kerala","","₹50 K / yr BAMS - avg fee",,
+"Pankajakasthuri Ayurveda Medical College - [PAMC] Kattakkada, Thiruvananthapuram","","Thiruvananthapuram, Kerala","CCIM","₹50 K / yr BAMS - avg fee",,
+"R.A. Podar Ayurved Medical College, Mumbai","","Mumbai, Maharashtra","","-- BAMS",,"2.7 / 5 2 reviews"
+"S.N.V.V Society's S.G.V Ayurvedic Medical College, Belgaum","","Belgaum, Karnataka","CCIM","₹28.6 K / yr BAMS - avg fee",,
+"Santhigiri Ayurveda & Siddha Vaidyasala, Palakkad","","Palakkad, Kerala","AICTE","-- BAMS",,
+"Santhigiri Ayurveda Medical College - [SAMC], Palakkad","","Palakkad, Kerala","CCIM","₹52.5 K / yr BAMS - avg fee",,
+"Shri Basaveshwara Vidya Vardhak Sangha Ayurvedic Medical College, Bagalkot","","Bagalkot, Karnataka","CCIM","-- BAMS",,
+"Shri Vijay Mahantesh Vidya Vardhak Sangha Ayurvedic Medical College - [SVMVVS], Bagalkot","","Bagalkot, Karnataka","CCIM","-- BAMS",,""
+"SDM Trust Ayurvedic Medical College and Research Institute, Bagalkot","","Bagalkot, Karnataka","CCIM","-- BAMS",,""
+"Smt KC Ajmera Ayurved Mahavidyalya, Dhule","","Dhule, Maharashtra","CCIM","-- BAMS",,
+"College of Veterinary Science and Animal Husbandry, Mathura","","Mathura, Uttar Pradesh","ICAR","₹46.5 K / yr M.Phil/Ph.D in Med...",,
+"IPD College, New Delhi","","New Delhi, Delhi NCR","AICTE","-- M.Phil/Ph.D in Med...",,
+"Indian Institute of Crafts and Design - [IICD], Jaipur","","Jaipur, Rajasthan","UGC","-- Graduate Diploma i...",,
+"Institute of Professional Studies and Research, New Delhi","","New Delhi, Delhi NCR","","-- B.Sc (Medicine)",,""
+"Kailash Institute of Nursing and Paramedical Sciences, Greater Noida","","Greater Noida, Uttar Pradesh","INC","₹46.9 K / yr Bachelor of Physio...",,"3.6 / 5 2 reviews"
+"Syamaprasad Institute of Technology and Management - [SITM], Kolkata","","Kolkata, West Bengal","AICTE","-- BHMS",,
+"All India Institute of Medical Sciences - [AIIMS], Raipur","","Raipur, Chhattisgarh","MCI, MHRD","₹914 / yr MBBS - avg fee",,""
+"Luxmi Bai Institute of Dental Sciences and Hospital, Patiala","","Patiala, Punjab","DCI","-- B.Sc (Medicine)",,"3.7 / 5 2 reviews"
+"Maharashtra Institute of Medical Sciences and Research - [MIMSR], Latur","","Latur, Maharashtra","AICTE","₹4.7 L / yr MBBS - avg fee",,"3.4 / 5 2 reviews"
+"Shine Abdur Razzaque Ansari Institute of Health Education and Research, Ranchi","","Ranchi, Jharkhand","CCIM","-- B.Sc (Nursing)",,""
+"Innocent Hearts Group of Institutions, Jalandhar","","Jalandhar, Punjab","AICTE","-- B.Sc (Medicine)",,
+"Babu Shivnath Agrawal College - [BSA], Mathura","","Mathura, Uttar Pradesh","","-- B.Sc (Medicine)",,""
+"Sri Padmavati Mahila Visvavidyalayam - [SPMVV], Tirupati","","Tirupati, Andhra Pradesh","UGC, NAAC-A","₹3 K / yr PG Diploma in Medi...",,""
+"ATSVS Siddha Medical College, Kanyakumari","","Kanyakumari, Tamil Nadu","CCIM","-- BAMS",,
+"Bhargava Paramedical College, Jammu","","Jammu, Jammu and Kashmir","AICTE","-- UG Diploma in Medi...",,
+"Gian Sagar College of Paramedical Sciences, Patiala","","Patiala, Punjab","AICTE","₹19.7 K / yr UG Diploma in Medi...",,
+"Sardar Bhagwan Singh Post Graduate Institute of Biomedical Science & Research, Dehradun","","Dehradun, Uttarakhand","PCI","₹37 K / yr Bachelor of Physio...",,"3.8 / 5 2 reviews"
+"Shivalik Institute of Paramedical Technology - [SIPT], Chandigarh","","Chandigarh, Chandigarh","AICTE, UGC","₹81 K / yr B.Sc (Medicine) - ...",,""
+"ACPM Medical College, Dhule","","Dhule, Maharashtra","MCI","₹4.2 L / yr MBBS - avg fee",,""
+"MAS Institute of Para Medical Sciences - AIPS, Aligarh","","Aligarh, Uttar Pradesh","RCI","-- UG Diploma in Medi...",,
+"AMS Durgabai Deshmukh General Hospital and Research Centre, Chennai","","Chennai, Tamil Nadu","BCI, NAAC, UGC","-- UG Certificate in ...",,
+"Aarupadai Veedu Medical College - [AVMC], Pondicherry","","Pondicherry, Puducherry","MCI","₹15.3 L / yr MBBS - avg fee",,"2.1 / 5 2 reviews"
+"Acharya Institute of Health Sciences - [AIHS], Bangalore","","Bangalore, Karnataka","INC, KNC, IAP","₹68.9 K / yr Bachelor of Physio...",,
+"Acharya Shri Chander College of Medical Sciences, Jammu","","Jammu, Jammu and Kashmir","MCI","₹39 K / yr MBBS - avg fee",,"3.8 / 5 3 reviews"
+"Adesh Institute of Biomedical Sciences, Bathinda","","Bathinda, Punjab","","-- B.Sc (Medicine)",,""
+"Adesh Institute of Medical Sciences and Research - [AIMSR], Bathinda","","Bathinda, Punjab","MCI","-- MBBS",,"3.6 / 5 1 reviews"
+"Adhiparasakthi College of Physiotherapy, Kanchipuram","","Kanchipuram, Tamil Nadu","","₹28 K / yr Bachelor of Physio...",,
+"Adhunik Institute of Education and Research-[AIER], Ghaziabad","","Ghaziabad, Uttar Pradesh","UGC","-- Bachelor of Physio...",,""
+"Adichunchanagiri Institute of Medical Sciences - [AIMS], Mandya","","Mandya, Karnataka","MCI","₹17.8 K / yr MBBS - avg fee",,"4.4 / 5 1 reviews"
+"Agartala Government Medical College, Agartala","","Agartala, Tripura","MCI","₹17 K / yr MBBS - avg fee",,
+"Jamia's Ahmad Garib Unani Medical College, Nandurbar","","Nandurbar, Maharashtra","CCIM","₹82.2 K / yr UG Diploma in Medi...",,
+"Ahmedabad Physiotherapy College, Ahmedabad","","Ahmedabad, Gujarat","IAP","₹84 K / yr Bachelor of Physio...",,""
+"Al Shifa College of Nursing, Malappuram","","Malappuram, Kerala","INC","₹50 K / yr B.Sc (Nursing) - a...",,
+"Al Shifa College of Paramedical Sciences, Perinthalmanna","","Perinthalmanna, Kerala","","₹41 K / yr B.Sc (Medicine) - ...",,""
+"Aligarh Institute of ParaMedical Sciences, Aligarh","","Aligarh, Uttar Pradesh","","-- UG Diploma in Medi...",,
+"All Saints Institute of Medical Sciences and Research, Ludhiana","","Ludhiana, Punjab","","-- Bachelor of Physio...",,"4.6 / 5 1 reviews"
+"Amar Jyoti Institute of Physiotherapy, New Delhi","","New Delhi, Delhi NCR","","₹69.7 K / yr Bachelor of Physio...",,""
+"Amity Institute of Physiotherapy - [AIPT], Noida","","Noida, Uttar Pradesh","IAP","₹52 K / yr Bachelor of Physio...",,""
+"Anand Institute of Medical Science - [AIMS], Ludhiana","","Ludhiana, Punjab","","-- B.Sc (Medicine)",,""
+"Ananthapuri Hospitals and Research Institute, Thiruvananthapuram","","Thiruvananthapuram, Kerala","","-- UG Diploma in Medi...",,
+"Annai Nivetha Electropathy Medical College, Sivaganga","","Sivaganga, Tamil Nadu","","-- BHMS",,""
+"Annapoorna Medical College and Hospital, Salem","","Salem, Tamil Nadu","MCI","₹2.6 L / yr MBBS - avg fee",,
+"Annasaheb Chudaman Patil Memorial Medical College - [ACPM], Dhule","","Dhule, Maharashtra","MCI","-- MBBS",,
+"Apex School of Dialysis Technology - [ASDT], Mumbai","","Mumbai, Maharashtra","","-- UG Diploma in Medi...",,
+"Apollo Physiotherapy College, Hyderabad","","Hyderabad, Telangana","","-- Bachelor of Physio...",,""
+"Apollo College of Physiotherapy, Durg","","Durg, Chhattisgarh","IAP","₹32.5 K / yr Bachelor of Physio...",,""
+"Apollo Institute of Hospital Management and Allied Science, Chennai","","Chennai, Tamil Nadu","COA, PCI","₹30 K / yr B.Sc - avg fee",,""
+"Asian Institute of Medical Sciences, Faridabad","","Faridabad, Haryana","","₹15.5 K / yr UG Diploma in Medi...",,
+"Avigna Clinical Research Institute - [ACRI], Bangalore","","Bangalore, Karnataka","UGC","-- PG Diploma in Medi...",,
+"Ayurved Mahavidyalaya, Nashik","","Nashik, Maharashtra","UGC","-- BAMS",,""
+"Ayushman College, Bhopal","","Bhopal, Madhya Pradesh","","₹29.7 K / yr B.Sc (Medicine) - ...",,""
+"Azeezia Medical College - [AIMS], Kollam","","Kollam, Kerala","MCI","₹5.41 L / yr MBBS - avg fee",,
+"BCF College of Physiotherapy , Kottayam","","Kottayam, Kerala","IAP","₹43.1 K / yr Bachelor of Physio...",,
+"BIMR College of Professional Studies, Gwalior","","Gwalior, Madhya Pradesh","","₹46.3 K / yr Bachelor of Physio...",,"4 / 5 1 reviews"
+"Babe Ke Ayurvedic Medical College, Moga","","Moga, Punjab","NCTE","₹16 K / yr BAMS - avg fee",,"3.7 / 5 1 reviews"
+"Banarsidas Chandiwala Institute of Physiotherapy - [BCIP], New Delhi","","New Delhi, Delhi NCR","","₹75.7 K / yr Bachelor of Physio...",,"3.6 / 5 3 reviews"
+"Basaveshwara Medical College and Hospital - [BMCH], Chitradurga","","Chitradurga, Karnataka","MCI","₹84 K / yr MBBS - avg fee",,
+"Belgaum Institute of Medical Sciences - [BIMS], Belgaum","","Belgaum, Karnataka","MCI","₹19.8 K / yr MBBS - avg fee",,"4.7 / 5 1 reviews"
+"Bharath College of Parmedical Science, Kottayam","","Kottayam, Kerala","UGC","-- B.Sc (Medicine)",,""
+"Bidar Institute of Medical Sciences, Bidar","","Bidar, Karnataka","MCI","₹11.4 K / yr MBBS - avg fee",,
+"Bundelkhand Medical College, Sagar","","Sagar, Madhya Pradesh","MCI","₹54.9 K / yr MBBS - avg fee",,""
+"CN Kothari Homoeopathic Medical College & Research Centre, Surat","","Surat, Gujarat","CCH","-- BHMS",,
+"CU Shah Physiotherapy College, Surendra Nagar","","Surendra Nagar, Gujarat","IAP","-- Bachelor of Physio...",,""
+"Chalmeda Anand Rao Institute of Medical Sciences - [CAIMS], Karim Nagar","","Karim Nagar, Telangana","MCI","₹11.6 L / yr MBBS - avg fee",,"3.8 / 5 1 reviews"
+"Charotar Institute of Physiotherapy, Anand","","Anand, Gujarat","AICTE","₹75 K / yr Bachelor of Physio...",,""
+"Clinical Research Education and Management Academy - [CREMA], Bangalore","","Bangalore, Karnataka","NAAC, UGC","-- PG Diploma in Medi...",,
+"Co-Operative Institute of Health Sciences - [CIHS] Thalassery, Kannur","","Kannur, Kerala","","₹45.4 K / yr Bachelor of Physio...",,""
+"Colaco Academy of Paramedical Sciences, Bangalore","","Bangalore, Karnataka","AICTE","-- UG Diploma in Medi...",,
+"College of Applied Education and Health Sciences - [CAEHS], Meerut","","Meerut, Uttar Pradesh","AICTE","-- Bachelor of Physio...",,""
+"Bharati Vidyapeeth Deemed University, Medical College School of Optometry, Pune","","Pune, Maharashtra","UGC, NAAC-A","-- M.Sc (Medicine)",,
+"College of Physiotherapy Adesh Institute of Medical Sciences & Research - [AIMSR], Bathinda","","Bathinda, Punjab","MCI","-- Bachelor of Physio...",,
+"DAV Institute of Physiotherapy & Rehabilitation, Jalandhar","","Jalandhar, Punjab","UGC","-- Bachelor of Physio...",,""
+"Dasmesh College of Physiotherapy, Faridkot","","Faridkot, Punjab","DCI","-- Bachelor of Physio...",,""
+"Dayanand Ayurvedic College, Jalandhar","","Jalandhar, Punjab","UGC","₹50 K / yr BAMS - avg fee",,
+"Deoband Unani Medical College, Saharanpur","","Saharanpur, Uttar Pradesh","AICTE","₹1.6 L / yr BUMS - avg fee",,""
+"DES Brijlal Jindal College of Physiotherapy, Pune","","Pune, Maharashtra","MCI","₹70 K / yr Bachelor of Physio...",,""
+"Desert Medicine Research Centre - [DMRC], Jodhpur","","Jodhpur, Rajasthan","","-- MBBS",,""
+"Dr. B.R. Sur Homoeopathic Medical College, Hospital and Research Centre, New Delhi","","New Delhi, Delhi NCR","BCI","₹9.83 K / yr BHMS - avg fee",,""
+"D Y Patil Medical College, Kolhapur","","Kolhapur, Maharashtra","MCI","₹7.58 L / yr MBBS - avg fee",,"2.1 / 5 2 reviews"
+"Dr Panjabrao Deshmukh Memorial Medical College, Amravati","","Amravati, Maharashtra","MCI","-- MBBS",,"2.6 / 5 1 reviews"
+"Dr Rajendra Prasad Government Medical College - [RPGMC], Kangra","","Kangra, Himachal Pradesh","MCI","-- MBBS",,""
+"Dr. S.R. Chandrasekhar Institute of Speech and Hearing - [SRCISH], Bangalore","","Bangalore, Karnataka","","-- B.Sc (Medicine)",,"3.4 / 5 1 reviews"
+"Dr. Somervell Memorial CSI Medical College and Hospital - [Dr. SMCSI], Thiruvananthapuram","","Thiruvananthapuram, Kerala","MCI","₹7.4 L / yr MBBS - avg fee",,""
+"Dr Vaishampayan Memorial Government Medical College, Solapur","","Solapur, Maharashtra","MCI","₹40 K / yr MBBS - avg fee",,""
+"ESI Post Graduate Institute of Medical Science and Research - [PGIMSR], Kolkata","","Kolkata, West Bengal","MCI","₹24 K / yr MBBS - avg fee",,"4.1 / 5 1 reviews"
+"Eram Unani Medical College and Hospital, Lucknow","","Lucknow, Uttar Pradesh","CCIM","₹1.6 L / yr BUMS - avg fee",,
+"Father Muller College Allied Health Sciences, Mangalore","","Mangalore, Karnataka","AICTE, UGC","₹60 K / yr Bachelor of Physio...",,"2.9 / 5 1 reviews"
+"Father Muller Homoeopathic Medical College, Mangalore","","Mangalore, Karnataka","CCH, NAAC-A","₹25.9 K / yr BHMS - avg fee",,""
+"Father Muller Medical College - [FMMC], Mangalore","","Mangalore, Karnataka","MCI, NAAC-A","₹2.33 L / yr Bachelor of Physio...",,"4.9 / 5 1 reviews"
+"Gajra Raja Medical College, Gwalior","","Gwalior, Madhya Pradesh","MCI","₹37.5 K / yr MBBS - avg fee",,""
+"Geetanjali Medical College - [GMC], Udaipur","","Udaipur, Rajasthan","MCI","-- B.Sc (Medicine)",,"4.6 / 5 2 reviews"
+"Gian Sagar College of Physiotherapy, Patiala","","Patiala, Punjab","","-- Bachelor of Physio...",,""
+"Gian Sagar Medical College & Hospital, Patiala","","Patiala, Punjab","MCI","₹6.6 L / yr MBBS - avg fee",,""
+"Global Institute of Regulatory Affairs - [GIRA], Pune","","Pune, Maharashtra","AICTE","-- PG Diploma in Medi...",,
+"Government Ayurveda College, Thiruvananthapuram","","Thiruvananthapuram, Kerala","MCI","₹11.7 K / yr BAMS - avg fee",,
+"Government ayurvedic college and Hospital, Gwalior","","Gwalior, Madhya Pradesh","CCIM","₹42.6 K / yr BAMS - avg fee",,""
+"Government Dharmapuri Medical College, Dharmapuri","","Dharmapuri, Tamil Nadu","MCI, UGC","₹12.4 K / yr MBBS - avg fee",,""
+"Government Medical College, Latur","","Latur, Maharashtra","MCI","₹56.5 K / yr MBBS - avg fee",,"4.3 / 5 1 reviews"
+"Government Medical College & Hospital, Akola","","Akola, Maharashtra","MCI","₹73.5 K / yr MBBS - avg fee",,"3.6 / 5 3 reviews"
+"Government Medical College, Srinagar","","Srinagar, Jammu and Kashmir","","-- MBBS",,"3.5 / 5 3 reviews"
+"Government Medical College - [GMC], Jammu","","Jammu, Jammu and Kashmir","MCI","-- MBBS",,""
+"Government Medical College, Bhavnagar","","Bhavnagar, Gujarat","MCI","₹6 K / yr MBBS - avg fee",,"3.9 / 5 4 reviews"
+"Government Theni Medical College, Theni","","Theni, Tamil Nadu","MCI","₹12.3 K / yr MBBS - avg fee",,""
+"Medical College, Baroda","","Baroda, Gujarat","MCI","-- MBBS",,"3.7 / 5 7 reviews"
+"Government Ayurveda College Pariyaram, Kannur","","Kannur, Kerala","CCIM","₹15.4 K / yr BAMS - avg fee",,""
+"Grace College of Health and Management, Kanyakumari","","Kanyakumari, Tamil Nadu","INC","-- B.Sc (Medicine)",,""
+"Grameen Ayurvedic Medical College - [GAMC], Bagalkot","","Bagalkot, Karnataka","CCIM","₹23.5 K / yr BAMS - avg fee",,
+"Gujarat Cancer and Research Institute - [GCRI], Ahmedabad","","Ahmedabad, Gujarat","MCI","-- M.Ch",,""
+"Guru Nanak Ayurvedic Medical College, Muktsar","","Muktsar, Punjab","CCIM","-- BAMS",,
+"Haniman Homeopathic College, Bhopal","","Bhopal, Madhya Pradesh","UGC","-- BHMS",,
+"Hassan Institute of Medical Sciences - [HIMS], Hassan","","Hassan, Karnataka","MCI","₹22.9 K / yr MBBS - avg fee",,""
+"Hind Institute of Medical Sciences - [HIMS], Lucknow","","Lucknow, Uttar Pradesh","MCI","₹10 L / yr MBBS - avg fee",,"4 / 5 1 reviews"
+"ITM Institute of Health Sciences, Raigarh","","Raigarh, Maharashtra","AICTE","-- B.Sc (Medicine)",,"5 / 5 1 reviews"
+"ITS Physiotherapy and Biotechnology College, Ghaziabad","","Ghaziabad, Uttar Pradesh","","₹42 K / yr Bachelor of Physio...",,""
+"Indian Board of Alternative Medicines - [IBAM], Kolkata","","Kolkata, West Bengal","AICTE, UGC","₹44.1 K / yr MD - avg fee",,""
+"Indira Gandhi Institute of Child Health - [IGICH], Bangalore","","Bangalore, Karnataka","AICTE","₹34.8 K / yr M.Ch - avg fee",,""
+"Indira Gandhi Medical College - [IGMC], Shimla","","Shimla, Himachal Pradesh","MCI","₹13 K / yr B.Sc (Medicine) - ...",,"3.5 / 5 3 reviews"
+"Innovative Centre for Biosciences Clinical Research, Mohali","","Mohali, Punjab","AICTE","-- PG Diploma in Medi...",,
+"Institute of Alternative Medicine & Research - [IAMR], Kolkata","","Kolkata, West Bengal","UGC","-- UG Certificate in ...",,""
+"Institute of Human Behaviour & Allied Sciences - [IHBAS], New Delhi","","New Delhi, Delhi NCR","MCI","₹8.56 K / yr MD - avg fee",,
+"J Watumull Global Hospital and Research Centre, Sirohi","","Sirohi, Rajasthan","NBA","-- Diplomate National...",,
+"JJM Medical College - [JJMMC], Davanagere","","Davanagere, Karnataka","MCI","₹4.89 K / yr MBBS - avg fee",,"4 / 5 4 reviews"
+"JKK Muniraja Medical Research Foundation College of Occupational Therapy, Namakkal","","Namakkal, Tamil Nadu","","-- B.Sc (Medicine)",,""
+"JSS College of Physiotherapy, Mysore","","Mysore, Karnataka","IAP","₹8.45 K / yr Bachelor of Physio...",,""
+"JSS Medical College and Hospital, Mysore","","Mysore, Karnataka","NAAC-A","₹53.6 K / yr B.Sc (Medicine) - ...",,"4 / 5 3 reviews"
+"Jaipur Occupational Therapy College - [JOTC], Jaipur","","Jaipur, Rajasthan","NAAC, UGC","-- B.Sc (Medicine)",,""
+"Jaipur Physiotherapy College and Hospital, Jaipur","","Jaipur, Rajasthan","NAAC","₹48.9 K / yr Bachelor of Physio...",,""
+"Jamia Tibbiya Deoband, Saharanpur","","Saharanpur, Uttar Pradesh","BCI","-- UG Diploma in Medi...",,
+"Jaslok Hospital and Research Centre, Mumbai","","Mumbai, Maharashtra","MCI","-- Diplomate National...",,""
+"Jawaharlal Nehru Medical College, Belagavi","","Belagavi, Karnataka","MCI, NAAC-A, MHRD","₹7.3 L / yr MBBS - avg fee",,"3.5 / 5 4 reviews"
+"JDT Islam College of Physiotherapy, Calicut","","Calicut, Kerala","INC","₹44.4 K / yr Bachelor of Physio...",,""
+"Jubilee Mission Medical College and Research Institute - [JMMCRI], Thrissur","","Thrissur, Kerala","MCI","₹4.16 L / yr MBBS - avg fee",,"2.7 / 5 1 reviews"
+"K.J. Somaiya Medical College & Research Centre - [KJSMC], Mumbai","","Mumbai, Maharashtra","MCI","₹7.38 L / yr MBBS - avg fee",,"3.3 / 5 3 reviews"
+"KMCT Medical College Manassery, Kozhikode","","Kozhikode, Kerala","MCI","₹5 L / yr MBBS - avg fee",,""
+"KVG Medical College and Hospital, Sullia","","Sullia, Karnataka","MCI","₹3.17 L / yr MBBS - avg fee",,"3.6 / 5 1 reviews"
+"Kanyakumari Government Medical College, Nagapattinam","","Nagapattinam, Tamil Nadu","MCI","₹12.3 K / yr MBBS - avg fee",,""
+"Karnataka Institute of Medical Sciences - [KIMS], Hubli","","Hubli, Karnataka","MCI","₹22 K / yr MBBS - avg fee",,"4 / 5 3 reviews"
+"Karpaga Vinayaga Institute of Medical Sciences and Research Center - [KIMS & RC], Chennai","","Chennai, Tamil Nadu","DCI","-- MD",,""
+"Karuna Medical College, Chittur","","Chittur, Kerala","MCI","₹5 L / yr MBBS - avg fee",,""
+"Kasturba Medical College - [KMC], Manipal","","Manipal, Karnataka","MCI, UGC","₹11.5 L / yr MBBS - avg fee",,"4.5 / 5 5 reviews"
+"Katihar Medical College, Katihar","","Katihar, Bihar","MCI","₹11.4 L / yr MBBS - avg fee",,""
+"Kempegowda Institute of Physiotherapy - [KIPT], Bangalore","","Bangalore, Karnataka","IAP","₹55.6 K / yr Bachelor of Physio...",,""
+"Khaja Bandanawaz Institute of Medical Sciences - [KBNIMS], Gulbarga","","Gulbarga, Karnataka","MCI","₹43.1 K / yr MBBS - avg fee",,""
+"Lifesupporters Institute of Health Science - [LIHS], Mumbai","","Mumbai, Maharashtra","","-- PG Diploma in Medi...",,
+"Lotus Clinical Research Academy - [LCRA], Chennai","","Chennai, Tamil Nadu","UGC","-- PG Diploma in Medi...",,
+"MA Rangoonwala College of Physiotherapy and Research, Pune","","Pune, Maharashtra","MCI","₹80 K / yr Bachelor of Physio...",,""
+"MES Medical College and Hospital, Malappuram","","Malappuram, Kerala","MCI","₹5.29 L / yr MBBS - avg fee",,"3.3 / 5 1 reviews"
+"M. P. Shah Government Medical College, Jamnagar","","Jamnagar, Gujarat","MCI","-- MBBS",,""
+"Mahadevappa Rampure Medical College, Gulbarga","","Gulbarga, Karnataka","MCI","₹3.57 L / yr MBBS - avg fee",,""
+"Maharani Laxmi Bai Medical College, Jhansi","","Jhansi, Uttar Pradesh","MCI","₹36.4 K / yr MBBS - avg fee",,"3.4 / 5 2 reviews"
+"Mahatma Gandhi Medical College and Research Institute - [MGMCRI], Pondicherry","","Pondicherry, Puducherry","UGC","₹75 K / yr B.Sc (Medicine) - ...",,"4.5 / 5 1 reviews"
+"Mahatma Gandhi Memorial Medical College, Jamshedpur","","Jamshedpur, Jharkhand","MCI","₹7.2 K / yr MBBS - avg fee",,""
+"Malankara Orthodox Syrian Church Medical College / MOSC Medical College Kolenchery, Ernakulam","","Ernakulam, Kerala","MCI","₹6.82 L / yr MBBS - avg fee",,"3.9 / 5 1 reviews"
+"Mandya Institute of Medical Sciences(Autonomous) - [MIMS], Mandya","","Mandya, Karnataka","MCI","₹31.7 K / yr MBBS - avg fee",,""
+"Mangala College of Para Medical Sciences, Mangalore","","Mangalore, Karnataka","AICTE","-- UG Diploma in Medi...",,
+"Manipal University, School of Allied Health Sciences, Manipal","","Manipal, Karnataka","RCI","₹1.37 L / yr B.Sc (Medicine) - ...",,"4.1 / 5 1 reviews"
+"Mata Gujari Institute of Para Medical Science, Panchkula","","Panchkula, Haryana","AICTE","-- B.Sc (Medicine)",,""
+"Medical College, Vadodara","","Vadodara, Gujarat","","-- M.Ch",,"3.8 / 5 1 reviews"
+"Meenakshi Medical College and Research Institute, Maher University, Kanchipuram","","Kanchipuram, Tamil Nadu","RCI","₹1.75 L / yr MBBS - avg fee",,""
+"MES Academy of Medical Sciences - [MESAMS] Malaparamba, Malappuram","","Malappuram, Kerala","MCI","₹28.9 K / yr MBBS - avg fee",,""
+"Midnapore Medical College & Hospital - [MMC], Medinipur","","Medinipur, West Bengal","MCI","₹1.36 K / yr MBBS - avg fee",,"3.9 / 5 3 reviews"
+"Mohamed Sathak A.J College of Physiotherapy, Chennai","","Chennai, Tamil Nadu","IAP","₹51.3 K / yr Bachelor of Physio...",,""
+"Muzaffarnagar Medical College - [MMC], Muzaffarnagar","","Muzaffarnagar, Uttar Pradesh","MCI","₹10.8 L / yr MBBS - avg fee",,"4.1 / 5 3 reviews"
+"Mysore Medical College - [MMC], Mysore","","Mysore, Karnataka","MCI","₹16.7 K / yr MBBS - avg fee",,"3.4 / 5 3 reviews"
+"Nandha College of Physiotherapy, Erode","","Erode, Tamil Nadu","","₹24.9 K / yr Bachelor of Physio...",,"4.8 / 5 1 reviews"
+"Narayana Medical College and Hospital, Nellore","","Nellore, Andhra Pradesh","NAAC-A","-- MBBS",,"3.9 / 5 3 reviews"
+"National Heart Institute and Research Centre - [NHI], New Delhi","","New Delhi, Delhi NCR","MCI","₹70 K / yr Diplomate National...",,
+"National Institute of Health and Family Welfare- [NIHFW], New Delhi","","New Delhi, Delhi NCR","MCI","₹15.6 K / yr MD - avg fee",,
+"National Institute of Ophthalmology-[NIO] Aundh, Pune","","Pune, Maharashtra","AICTE","-- Diplomate National...",,""
+"National Institute of Pathology - [IOP], New Delhi","","New Delhi, Delhi NCR","MCI","-- Diplomate National...",,
+"Swami Vivekanand National Institute of Rehabilitation Training and Research - [SVNIRTAR], Cuttack","","Cuttack, Orissa","AICTE, NBA","₹17.1 K / yr Bachelor of Physio...",,""
+"National Institute of Unani Medicine - [NIUM], Bangalore","","Bangalore, Karnataka","CCIM","₹20.4 K / yr MD - avg fee",,"4.3 / 5 1 reviews"
+"National Jalma Institute of Leprosy and other Mycobacterial Diseases, Agra","","Agra, Uttar Pradesh","AICTE","-- MD",,
+"Navodaya College of Paramedical Sciences, Raichur","","Raichur, Karnataka","PCI","-- B.Sc (Medicine)",,""
+"Navodaya College of Physiotherapy, Raichur","","Raichur, Karnataka","PCI","₹1.5 L / yr Master of Physioth...",,
+"Navodaya Medical College, Raichur","","Raichur, Karnataka","MCI","₹3.25 L / yr MBBS - avg fee",,"3.1 / 5 1 reviews"
+"Netaji Subash Chandra Bose Medical College - [NSCBMC], Jabalpur","","Jabalpur, Madhya Pradesh","MCI","-- MBBS",,"3.9 / 5 1 reviews"
+"PG College of Nursing, Bhilai","","Bhilai, Chhattisgarh","INC","₹75 K / yr B.Sc (Nursing) - a...",,
+"Dr DY Patil College of Physiotherapy, Pune","","Pune, Maharashtra","AICTE, NAAC-A","₹1.45 L / yr Bachelor of Physio...",,""
+"Padmashree Institute of Physiotherapy, Bangalore","","Bangalore, Karnataka","IAP","₹8.25 K / yr Bachelor of Physio...",,"3.9 / 5 1 reviews"
+"Parul Institute of Physiotherapy, Vadodara","","Vadodara, Gujarat","IAP","₹96 K / yr Bachelor of Physio...",,""
+"Patliputra Medical College & Hospital - [PMCH], Dhanbad","","Dhanbad, Jharkhand","MCI","-- MBBS",,""
+"People's College of Medical Sciences & Research Centre - [PCMS], Bhopal","","Bhopal, Madhya Pradesh","MCI","₹4.3 L / yr MBBS - avg fee",,"3.3 / 5 3 reviews"
+"PK DAS Institute of Medical Sciences - [PKDIMS], Ottapalam","","Ottapalam, Kerala","MCI","₹7.55 L / yr MBBS - avg fee",,
+"Pondicherry Institute of Medical Sciences - [PIMS], Pondicherry","","Pondicherry, Puducherry","MCI","₹18 L / yr MBBS - avg fee",,""
+"Pushpagiri Institute of Medical Sciences and Research Centre, Thiruvalla","","Thiruvalla, Kerala","MCI","₹4.42 L / yr MBBS - avg fee",,""
+"RV College of Physiotherapy, Bangalore","","Bangalore, Karnataka","PCI, AICTE","₹56.9 K / yr Bachelor of Physio...",,""
+"RVS College of Physiotherapy, Coimbatore","","Coimbatore, Tamil Nadu","PCI, AICTE","₹24.9 K / yr Bachelor of Physio...",,""
+"Raichur Institute of Medical Sciences - [RIMS], Raichur","","Raichur, Karnataka","MCI","₹15.2 K / yr MBBS - avg fee",,
+"Regional Cancer Centre - [RCC], Thiruvananthapuram","","Thiruvananthapuram, Kerala","MCI","₹1.17 L / yr M.Ch - avg fee",,""
+"UP Rural Institute of Medical Sciences & Research, Etawah","","Etawah, Uttar Pradesh","MCI","₹24 K / yr MBBS - avg fee",,""
+"SDM College of Naturopathy and Yogic Sciences - [SDMCNYS] Ujire, Dakshin Kannada","","Dakshin Kannada, Karnataka","","₹50 K / yr MD - avg fee",,
+"SN Medical College - [SNMC], Agra","","Agra, Uttar Pradesh","MCI","₹29.9 K / yr MBBS - avg fee",,"3.8 / 5 5 reviews"
+"SS Institute of Medical Sciences and Research Centre, Davanagere","","Davanagere, Karnataka","MCI","₹3.17 L / yr MBBS - avg fee",,""
+"Samarpan Institute of Nursing and Paramedical Sciences - [SINPS], Lucknow","","Lucknow, Uttar Pradesh","","₹34.5 K / yr UG Diploma in Medi...",,
+"Sanjay Gandhi Institute of Trauma and Orthopaedic - [SGITO], Bangalore","","Bangalore, Karnataka","AICTE","₹50 K / yr B.Sc (Medicine) - ...",,
+"Sanjeevni Institute of Paramedical Sciences, Panchkula","","Panchkula, Haryana","","₹80 K / yr UG Diploma in Medi...",,""
+"Santosh Medical College, Ghaziabad","","Ghaziabad, Uttar Pradesh","MCI, UGC","₹17 L / yr MBBS - avg fee",,"3.1 / 5 2 reviews"
+"Sarvajanik College of Physiotherapy, Surat","","Surat, Gujarat","AICTE","-- Bachelor of Physio...",,""
+"Sarvodaya Hospital and Research Center, Faridabad","","Faridabad, Haryana","MCI","-- MBBS",,
+"Saveetha College of Physiotherapy, Chennai","","Chennai, Tamil Nadu","IAP","₹71.2 K / yr Bachelor of Physio...",,""
+"Saveetha Medical College, Chennai","","Chennai, Tamil Nadu","MCI","₹36.7 K / yr B.Sc (Medicine) - ...",,"4.6 / 5 2 reviews"
+"School of Regenerative Medicine - [SORM], Bangalore","","Bangalore, Karnataka","PCI, AICTE","-- M.Sc (Medicine)",,
+"Sher-i-Kashmir Institute of Medical Sciences - [SKIMS], Srinagar","","Srinagar, Jammu and Kashmir","MCI, UGC","-- B.Sc (Medicine)",,""
+"Shimoga Institute of Medical Sciences - [SIMS], Shimoga","","Shimoga, Karnataka","MCI","₹18.3 K / yr MBBS - avg fee",,"3.9 / 5 1 reviews"
+"Shri Guru Ram Rai Institute of Medical and Health Sciences, Dehradun","","Dehradun, Uttarakhand","MCI","₹5.33 L / yr MBBS - avg fee",,"3.4 / 5 1 reviews"
+"Shri JG CoOperative Hospital and Research Institute, Bangalore","","Bangalore, Karnataka","CCIM","-- BAMS",,""
+"Shri Sathya Sai Medical College and Research Institute - [SSSMCRI], Kanchipuram","","Kanchipuram, Tamil Nadu","MCI","-- MBBS",,
+"Siddhartha Medical College, Vijayawada","","Vijayawada, Andhra Pradesh","MCI","₹18.1 K / yr MBBS - avg fee",,"3.1 / 5 4 reviews"
+"Sikkim Manipal College of Physiotherapy - [SMCPT], Gangtok","","Gangtok, Sikkim","IAP","₹98.3 K / yr Bachelor of Physio...",,""
+"Sree Chitra Tirunal Institute for Medical Sciences and Technology - [SCTIMST], Trivandrum","","Trivandrum, Kerala","MCI, UGC","₹1.09 L / yr M.Ch - avg fee",,"0.9 / 5 1 reviews"
+"Sree Gokulam Medical College and Research Foundation - [SGMCRF], Thiruvananthapuram","","Thiruvananthapuram, Kerala","MCI","₹10 L / yr MBBS - avg fee",,""
+"Sree Lakshmi Narayana Institute of Medical Sciences, Pondicherry","","Pondicherry, Puducherry","MCI","₹75 K / yr B.Sc (Medicine) - ...",,""
+"Sree Narayana Institute of Medical Sciences Chalakka - [SNIMS], Ernakulam","","Ernakulam, Kerala","MCI","₹7.27 L / yr MBBS - avg fee",,"4.8 / 5 2 reviews"
+"Sree Siddhartha Medical College and Research Centre - [SSMC], Tumkur","","Tumkur, Karnataka","MCI, UGC","₹4.97 L / yr MBBS - avg fee",,""
+"Sri Guru Nanak Dev Homoeopathic Medical College, Ludhiana","","Ludhiana, Punjab","CCH","-- BHMS",,""
+"Sri Manakula Vinayagar Medical College and Hospital - [SMVMCH], Pondicherry","","Pondicherry, Puducherry","MCI","₹20 L / yr MBBS - avg fee",,"4.4 / 5 5 reviews"
+"Sri Sairam Siddha Medical College and Research Centre - [SSSMCRC], Chennai","","Chennai, Tamil Nadu","CCH, CCIM","₹7.77 K / yr BAMS - avg fee",,
+"Srinivas College Of Physiotherapy And Research Centre - [SCPT], Mangalore","","Mangalore, Karnataka","IAP","₹8.25 K / yr Bachelor of Physio...",,""
+"Srinivas Institute of Medical Sciences and Research Centre, Mangalore","","Mangalore, Karnataka","MCI","₹3.57 L / yr MBBS - avg fee",,"4.1 / 5 1 reviews"
+"State Institute of Health and Family Welfare, Ahmedabad","","Ahmedabad, Gujarat","","-- MBBS",,
+"Surat Municipal Institute of Medical Education & Research - [SMIMER], Surat","","Surat, Gujarat","MCI","₹4.34 L / yr MBBS - avg fee",,"4 / 5 3 reviews"
+"Swami Vivekanand National Institute of Rehabilitation Training & Research - [SVNIRTAR], Cuttack","","Cuttack, Orissa","AICTE","-- Bachelor of Physio...",,""
+"Swatantra Institute of Physiotherapy and Rehabilitation, Rajahmundhry","","Rajahmundhry, Andhra Pradesh","","-- Bachelor of Physio...",,""
+"Tata Memorial Centre - [TMC], Mumbai","","Mumbai, Maharashtra","MCI","-- Diplomate National...",,""
+"Teerthanker Mahaveer Medical College and Research Center, Moradabad","","Moradabad, Uttar Pradesh","MCI","₹14.9 L / yr MBBS - avg fee",,""
+"Thammineni Institute of Medical Science - [TIMS], Vijayawada","","Vijayawada, Andhra Pradesh","UGC","₹12 K / yr UG Diploma in Medi...",,
+"Thomas Mar Athanasius Institute of Counseling - [TMAIC], Kottayam","","Kottayam, Kerala","AICTE","₹53 K / yr UG Certificate in ...",,
+"Government Thoothukudi Medical College, Thoothukudi","","Thoothukudi, Tamil Nadu","MCI","₹40.5 K / yr MBBS - avg fee",,""
+"Tripura Medical College, West Tripura","","West Tripura, Tripura","MCI","₹4.37 L / yr MBBS - avg fee",,""
+"Westfort Institute of Paramedical Science - [WIMS], Thrissur","","Thrissur, Kerala","PCI","₹50 K / yr B.Sc (Medicine) - ...",,""
+"Z.V.M. Unani Medical College and Hospital, Pune","","Pune, Maharashtra","CCIM","-- MD",,""
+"Zulfequar Haider Unani Medical College and Hospital, Siwan","","Siwan, Bihar","CCIM","₹1.21 L / yr UG Diploma in Medi...",,
+"A.K.G Memorial Co-Operative College of Nursing, Kannur","","Kannur, Kerala","INC","₹55 K / yr B.Sc (Nursing) - a...",,
+"Baby Memorial College Of Nursing, Kozhikode","","Kozhikode, Kerala","INC","₹75 K / yr B.Sc (Nursing) - a...",,""
+"Bihar Institute of Nursing and Paramedical - [BINP], Patna","","Patna, Bihar","INC","-- UG Diploma in Medi...",,
+"Bishop Benziger College of Nursing - [BBCON], Kollam","","Kollam, Kerala","INC, NAAC","₹1.56 L / yr M.Sc (Nursing) - a...",,
+"ES College of Nursing, Villupuram","","Villupuram, Tamil Nadu","INC","₹20 K / yr UG Diploma in Medi...",,
+"Eashwari Bai Memorial College of Nursing - [EBMCON], Secunderabad","","Secunderabad, Telangana","INC, AICTE","₹1 L / yr B.Sc (Nursing) - a...",,
+"Faran College of Nursing, Bangalore","","Bangalore, Karnataka","INC, KNC","₹78.8 K / yr B.Sc (Nursing) - a...",,
+"Florence College of Nursing, Ranchi","","Ranchi, Jharkhand","INC","₹70 K / yr B.Sc (Nursing) - a...",,
+"Fortis Institute of Nursing - [FIN], Bangalore","","Bangalore, Karnataka","INC","-- M.Sc",,
+"Ganga Sheel School of Nursing - [GSSN], Bareilly","","Bareilly, Uttar Pradesh","INC","-- B.Sc (Nursing)",,""
+"Geetanjli College of Nursing - [GCN], Udaipur","","Udaipur, Rajasthan","INC","₹65 K / yr B.Sc (Nursing) - a...",,""
+"Global College of Nursing, Bangalore","","Bangalore, Karnataka","INC, KNC","-- B.Sc (Nursing)",,""
+"Holy Cross College of Nursing, Kollam","","Kollam, Kerala","INC","₹70 K / yr B.Sc (Nursing) - a...",,""
+"Jaipur Hospital School of Nursing and Medical Training Centre, Jaipur","","Jaipur, Rajasthan","INC, MCI","-- Bachelor of Physio...",,
+"JDT Islam College of Nursing, Calicut","","Calicut, Kerala","INC, KNMC","₹55 K / yr B.Sc (Nursing) - a...",,
+"Jennys College of Nursing, Dindigul","","Dindigul, Tamil Nadu","INC","₹30 K / yr B.Sc (Nursing) - a...",,
+"Jubilee Mission College of Nursing - [JMCON], Thrissur","","Thrissur, Kerala","INC","₹55 K / yr PG Diploma in Medi...",,""
+"K Pandyarajah Ballal Nursing Institute - [KPBNI], Mangalore","","Mangalore, Karnataka","INC, IAP","₹1.55 L / yr Master of Physioth...",,
+"KAP Viswanatham Government Medical College, Thiruchirapalli","","Thiruchirapalli, Tamil Nadu","MCI","₹13.6 K / yr MBBS - avg fee",,""
+"KG College of Nursing, Coimbatore","","Coimbatore, Tamil Nadu","INC","₹50 K / yr B.Sc (Nursing) - a...",,
+"KIMS College of Nursing, Thiruvananthapuram","","Thiruvananthapuram, Kerala","INC, KNMC","₹50 K / yr B.Sc (Nursing) - a...",,
+"KMCH College of Nursing, Coimbatore","","Coimbatore, Tamil Nadu","PCI","₹50 K / yr PG Diploma in Medi...",,
+"KVM College of Nursing, Cherthala","","Cherthala, Kerala","INC","₹80 K / yr B.Sc (Nursing) - a...",,
+"Lord Jagannath Mission's College and School of Nursing, Bhubaneswar","","Bhubaneswar, Orissa","INC","₹85 K / yr B.Sc (Nursing) - a...",,"4.5 / 5 1 reviews"
+"Lord Mahavira Nursing College, Solan","","Solan, Himachal Pradesh","INC","₹37.4 K / yr B.Sc (Nursing) - a...",,
+"MES College of Nursing, Perinthalmanna","","Perinthalmanna, Kerala","INC, KNMC","₹55 K / yr B.Sc (Nursing) - a...",,
+"Malik Deenar College of Nursing, Kasaragod","","Kasaragod, Kerala","INC, KNC","₹80 K / yr B.Sc (Nursing) - a...",,
+"Mannai Narayanasamy College of Nursing, Mathur","","Mathur, Tamil Nadu","INC","-- Bachelor of Physio...",,
+"Mar Sleeva College of Nursing, Kottayam","","Kottayam, Kerala","INC, KNC","₹18 K / yr B.Sc (Nursing) - a...",,
+"Matha College of Nursing -[MCN], Manamadurai","","Manamadurai, Tamil Nadu","INC","₹28 K / yr B.Sc (Nursing) - a...",,
+"Meridian School of Nursing Education - [MSNE], Varanasi","","Varanasi, Uttar Pradesh","INC","-- UG Diploma in Medi...",,
+"Mohamed Sathak AJ College of Nursing - [MSAJCN], Chennai","","Chennai, Tamil Nadu","INC","₹1.54 L / yr M.Sc (Nursing) - a...",,
+"People's College of Nursing & Research Centre - [PCNRC], Bhopal","","Bhopal, Madhya Pradesh","INC","-- PG Diploma in Medi...",,""
+"Ruckmoni College of Nursing - [RCON], Thiruvananthapuram","","Thiruvananthapuram, Kerala","INC, KNMC","₹70 K / yr B.Sc (Nursing) - a...",,
+"SCPM College of Nursing and Paramedical Science, Gonda","","Gonda, Uttar Pradesh","INC","₹72 K / yr B.Sc (Medicine) - ...",,""
+"SCS College of Nursing Sciences, Mangalore","","Mangalore, Karnataka","INC","₹85 K / yr M.Sc (Medicine) - ...",,
+"SOS Nursing School, Faridabad","","Faridabad, Haryana","INC","-- UG Diploma in Medi...",,
+"Saraswathy College of Nursing Karode, Thiruvananthapuram","","Thiruvananthapuram, Kerala","INC, KNC","₹20 K / yr B.Sc (Nursing) - a...",,
+"Sardar Rajas College of Nursing -[SRCN], Tirunelveli","","Tirunelveli, Tamil Nadu","INC","₹30 K / yr B.Sc (Nursing) - a...",,
+"Sri Gokulam College of Nursing - [SGCN], Salem","","Salem, Tamil Nadu","INC","₹30 K / yr B.Sc (Medicine) - ...",,
+"Tamanna Institute Allied Health Science - [TIAHS], Allahabad","","Allahabad, Uttar Pradesh","MCI","-- UG Diploma in Medi...",,
+"Thanthai Roever College of Nursing, Perambalur","","Perambalur, Tamil Nadu","INC","-- UG Certificate in ...",,
+"Thasiah College of Nursing, Kanyakumari","","Kanyakumari, Tamil Nadu","INC","₹45.5 K / yr B.Sc (Nursing) - a...",,
+"Unity Institute of Nursing, Mangalore","","Mangalore, Karnataka","INC","-- UG Diploma in Medi...",,""
+"Abhinav Institute of Technology and Management, Aurangabad","","Aurangabad, Maharashtra","AICTE, UGC","-- UG Diploma in Medi...",,
+"Dr RG Bhoyar Institute of Technical Education, Wardha","","Wardha, Maharashtra","","-- UG Diploma in Medi...",,
+"Gurukul Institute of Management and Technology - [GIMT], New Delhi","","New Delhi, Delhi NCR","AICTE","₹37 K / yr B.Sc (Medicine) - ...",,""
+"Government Autonomous College, Rourkela","","Rourkela, Orissa","","₹15 K / yr UG Diploma in Medi...",,""
+"Government Degree College, North Tripura","","North Tripura, Tripura","","-- B.Sc (Medicine)",,
+"Lyallpur Khalsa College - [LKC], Jalandhar","","Jalandhar, Punjab","NAAC","₹60.4 K / yr Bachelor of Physio...",,""
+"Pacific College Of Physiotherapy, Gorakhpur","","Gorakhpur, Uttar Pradesh","AICTE","₹48.9 K / yr Bachelor of Physio...",,""
+"Apheta Institute of Clinical Research, Allahabad","","Allahabad, Uttar Pradesh","AICTE","-- M.Sc (Medicine)",,""
+"Bhagavantham Gupta Bangaru Seshavatharam Women's College - [BGBS], Narsapur","","Narsapur, Andhra Pradesh","AICTE","-- UG Certificate in ...",,
+"Bhavan's Tripura College of Science and Technology, Agartala","","Agartala, Tripura","","₹39 K / yr B.Sc (Medicine) - ...",,""
+"Delhi Institute of Technology and Paramedical Sciences - [DITPS], New Delhi","","New Delhi, Delhi NCR","","-- B.Sc (Medicine)",,""
+"Dolphin PG College of Life Sciences, Fatehgarh Sahib","","Fatehgarh Sahib, Punjab","NAAC, UGC","₹45 K / yr B.Sc (Medicine) - ...",,
+"Institute for Communicative and Cognitive Neuro Sciences - [ICCONS] Kavalappara, Palakkad","","Palakkad, Kerala","AICTE, UGC","₹71.1 K / yr B.Sc (Medicine) - ...",,"3 / 5 1 reviews"
+"JSS Institute of Speech and Hearing, Mysore","","Mysore, Karnataka","RCI, NAAC","₹7.93 K / yr B.Sc (Medicine) - ...",,""
+"MIMS College of Allied Health Sciences Vazhayoor, Malappuram","","Malappuram, Kerala","","₹2.13 K / yr B.Sc (Medicine) - ...",,""
+"National Institute of Medical and Management Studies - [NIMMS], Bhubaneswar","","Bhubaneswar, Orissa","INC","₹12.5 K / yr UG Diploma in Medi...",,""
+"SRM Degree and PG College, Karim Nagar","","Karim Nagar, Telangana","AICTE","-- B.Sc (Medicine)",,""
+"Sigma Institute of Physiotherapy, Baroda","","Baroda, Gujarat","IAP","₹52 K / yr Bachelor of Physio...",,
+"Sree Ayyappa College Eramallikkara, Chengannur","","Chengannur, Kerala","NAAC, UGC","₹39 K / yr B.Sc (Medicine) - ...",,
+"Trident College of Education, Meerut","","Meerut, Uttar Pradesh","NCTE, AICTE","-- Bachelor of Physio...",,
+"Uttaranchal College of Technology and BioMedical Sciences - [UCTBS], Dehradun","","Dehradun, Uttarakhand","MCI","-- B.Sc (Medicine)",,""
+"Vidya Prasarak Mandal Advanced Study Centre, Thane","","Thane, Maharashtra","AICTE","-- PG Diploma in Medi...",,
+"Bhartiya Shiksha Parishad - [BSP], Lucknow","","Lucknow, Uttar Pradesh","UGC","-- Bachelor of Physio...",,"3.8 / 5 1 reviews"
+"Delhi Paramedical and Management Institute - [DPMI], New Delhi","","New Delhi, Delhi NCR","UGC, DEB","-- UG Diploma in Medi...",,"3.7 / 5 1 reviews"
+"Kaizen School of Business Management - [KSBM], Mumbai","","Mumbai, Maharashtra","","-- Diploma in Medical",,
+"Post Graduate Institute of Behavioral and Medical Sciences - [PGIBMS], Raipur","","Raipur, Chhattisgarh","RCI, INC, MCI","-- Diplomate National...",,
+"Shyam Institute of Management and Technology, New Delhi","","New Delhi, Delhi NCR","","-- UG Diploma in Medi...",,
+"Bardoli College, Katni","","Katni, Madhya Pradesh","NCTE","-- Bachelor of Physio...",,""
+"Enterprise Development Institute - [EDI], Kolkata","","Kolkata, West Bengal","","₹20 K / yr UG Diploma in Medi...",,
+"Indira Gandhi College of Distance Education - [IGCDE], Coimbatore","","Coimbatore, Tamil Nadu","NCTE, UGC","₹3.4 K / yr B.Sc (Medicine) - ...",,""
+"Integrated Institute for the Disabled, Varanasi","","Varanasi, Uttar Pradesh","AICTE, UGC","-- UG Diploma in Medi...",,
+"JM Institute of Speech and Hearing - [JMISH], Patna","","Patna, Bihar","","-- B.Sc (Medicine)",,""
+"KVM College of Special Education, Cherthala","","Cherthala, Kerala","RCI, NAAC","-- UG Diploma in Medi...",,
+"MERF Institute of Speech and Hearing - [MERF ISH], Chennai","","Chennai, Tamil Nadu","RCI","-- B.Sc (Medicine)",,""
+"NAISH College, Bangalore","","Bangalore, Karnataka","RCI","-- B.Sc (Medicine)",,""
+"Vinayaka Institution of Management and Technology - [VIMT], New Delhi","","New Delhi, Delhi NCR","","-- B.Sc (Medicine)",,""
+"Dr. B. R. Ambedkar University - [BRAU], Srikakulam","","Srikakulam, Andhra Pradesh","UGC","-- PG Diploma in Medi...",,""
+"Sri Venkateswara Institute of Medical Sciences - [SVIMS], Tirupati","","Tirupati, Andhra Pradesh","MCI","₹20.2 K / yr B.Sc (Medicine) - ...",,"4.1 / 5 4 reviews"
+"Chhattisgarh University - [CGU], Raipur","","Raipur, Chhattisgarh","AICTE","-- Graduate Diploma i...",,""
+"Pandit Sundarlal Sharma Open University - [PSSOU], Bilaspur","","Bilaspur, Chhattisgarh","UGC","₹7.6 K / yr PG Diploma in Medi...",,
+"Institute of Liver and Biliary Sciences - [ILBS], New Delhi","","New Delhi, Delhi NCR","UGC","₹56.7 K / yr MD - avg fee",,""
+"Charotar University of Science and Technology - [CHARUSAT], Anand","","Anand, Gujarat","NAAC-A","₹75 K / yr Bachelor of Physio...",,"4.1 / 5 30 reviews"
+"RK University - [RKU], Rajkot","","Rajkot, Gujarat","PCI, IAP, AICTE, UGC","₹71.7 K / yr Bachelor of Physio...",,"3.9 / 5 10 reviews"
+"Uka Tarsadia University - [UTU], Surat","","Surat, Gujarat","UGC","₹95.5 K / yr Bachelor of Physio...",,"4 / 5 8 reviews"
+"Baba MastNath University - [BMU], Rohtak","","Rohtak, Haryana","PCI, INC, MCI, BCI, AICTE","₹30 K / yr Bachelor of Physio...",,"3.8 / 5 1 reviews"
+"Bhagat Phool Singh Mahila Vishwavidyalaya - [BPSMV], Sonepat","","Sonepat, Haryana","AICTE, UGC","₹68.5 K / yr BAMS - avg fee",,""
+"G D Goenka University - [GDGU], Gurgaon","","Gurgaon, Haryana","NCTE, COA, PCI, BCI, UGC","₹71.1 K / yr Bachelor of Physio...",,"4.1 / 5 12 reviews"
+"National Brain Research Centre - [NBRC], Gurgaon","","Gurgaon, Haryana","UGC","-- M.Phil/Ph.D in Med...",,
+"IEC University Baddi - [ICEU], Solan","","Solan, Himachal Pradesh","BCI, AICTE, UGC","₹75.8 K / yr Bachelor of Physio...",,"3.8 / 5 10 reviews"
+"Maharishi Markandeshwar University - [MMU], Solan","","Solan, Himachal Pradesh","","₹45 K / yr B.Sc (Medicine) - ...",,""
+"Sri Sai University - [SSU], Palampur","","Palampur, Himachal Pradesh","AICTE, UGC","₹40 K / yr Diploma in Medical...",,""
+"BLDE University, Bijapur","","Bijapur, Karnataka","MCI","₹8.1 L / yr MBBS - avg fee",,"3 / 5 3 reviews"
+"National Institute of Mental Health and Neuro Sciences - [NIMHANS], Bangalore","","Bangalore, Karnataka","","₹14.3 K / yr B.Sc (Medicine) - ...",,""
+"Rani Channamma University - [RCUB], Belagavi","","Belagavi, Karnataka","UGC","₹7.23 K / yr PG Diploma in Medi...",,
+"Sri Devaraj URS University - [SDUU], Kolar","","Kolar, Karnataka","MCI, UGC","₹5.68 L / yr MBBS - avg fee",,"3.8 / 5 2 reviews"
+"Swami Vivekananda Yoga Anusandhana Samsthana - [S-VYASA], Bangalore","","Bangalore, Karnataka","UGC, MHRD","₹83.6 K / yr MD - avg fee",,""
+"All India Institute of Medical Sciences - [AIIMS], Bhopal","","Bhopal, Madhya Pradesh","MCI","₹1.39 K / yr MBBS - avg fee",,"3.8 / 5 1 reviews"
+"Lakshmibai National Institute of Physical Education - [LNIPE], Gwalior","","Gwalior, Madhya Pradesh","NAAC, UGC","₹25.8 K / yr PG Diploma in Medi...",,""
+"DY Patil Education Society - [DYPES], Kolhapur","","Kolhapur, Maharashtra","UGC, NAAC-A","₹9.2 L / yr MBBS - avg fee",,""
+"Homi Bhabha National Institute - [HBNI], Mumbai","","Mumbai, Maharashtra","NAAC, MHRD","-- M.Ch",,"4 / 5 1 reviews"
+"Kavikulguru Kalidas Sanskrit University, Nagpur","","Nagpur, Maharashtra","","-- UG Diploma in Medi...",,
+"National Institute of Abiotic Stress Management - [NIASM], Pune","","Pune, Maharashtra","ICAR","-- M.Phil/Ph.D in Med...",,
+"University of Science and Technology - [USTM], Ri-Bhoi","","Ri-Bhoi, Meghalaya","NCTE, BCI, AICTE, UGC, AIU","₹72.7 K / yr B.Sc - avg fee",,"3.9 / 5 1 reviews"
+"DAV University, Jalandhar","","Jalandhar, Punjab","UGC","₹26 K / yr PG Diploma in Medi...",,""
+"Guru Kashi University, Bathinda","","Bathinda, Punjab","NCTE, AICTE, NAAC, UGC","-- B.Sc (Medicine)",,"3.1 / 5 6 reviews"
+"Sri Guru Granth Sahib World University - [SGGSWU], Fatehgarh Sahib","","Fatehgarh Sahib, Punjab","NCTE, BCI, UGC","₹59.6 K / yr Bachelor of Physio...",,
+"All India Institute of Medical Sciences - [AIIMS], Jodhpur","","Jodhpur, Rajasthan","MCI","₹1.77 K / yr MBBS - avg fee",,"3.5 / 5 3 reviews"
+"Bhagwant University, Ajmer","","Ajmer, Rajasthan","NCTE, BCI, AICTE, UGC, AIU","₹40.5 K / yr Bachelor of Physio...",,"3.5 / 5 18 reviews"
+"Dr Sarvepalli Radhakrishnan Rajasthan Ayurved University - [DSRRAU], Jodhpur","","Jodhpur, Rajasthan","UGC","₹50.9 K / yr BAMS - avg fee",,""
+"Homoeopathy University, Jaipur","","Jaipur, Rajasthan","CCH","₹86.4 K / yr BHMS - avg fee",,""
+"Jagdishprasad Jhabarmal Tibrewala University - [JJTU], Jhunjhunu","","Jhunjhunu, Rajasthan","UGC","₹66.7 K / yr Bachelor of Physio...",,"3.3 / 5 10 reviews"
+"Jain Vishva Bharati University, Nagaur","","Nagaur, Rajasthan","NAAC, UGC","₹5.95 K / yr PG Diploma in Medi...",,""
+"Vardhman Mahaveer Open University - [VMOU], Kota","","Kota, Rajasthan","UGC","₹6 K / yr PG Diploma in Medi...",,
+"Vinayaka Missions Sikkim University - [VMSU], Gangtok","","Gangtok, Sikkim","","-- UG Certificate in ...",,
+"Central University of Tamil Nadu - [CUTN], Thiruvarur","","Thiruvarur, Tamil Nadu","UGC","₹13.3 K / yr M.Sc (Medicine) - ...",,""
+"Chettinad University - [CU], Kanchipuram","","Kanchipuram, Tamil Nadu","INC, MCI, NAAC, UGC","₹9.51 L / yr MBBS - avg fee",,""
+"Tamil Nadu Physical Education and Sports University - [TNPESU], Chennai","","Chennai, Tamil Nadu","","₹2.8 K / yr PG Diploma in Medi...",,
+"Thiruvalluvar University - [TU], Vellore","","Vellore, Tamil Nadu","UGC","₹16.6 K / yr Bachelor of Physio...",,""
+"Jagadguru Rambhadracharya Handicapped University, Chitrakoot","","Chitrakoot, Uttar Pradesh","NAAC-B","-- B.Sc (Medicine)",,""
+"Mohammad Ali Jauhar University, Rampur","","Rampur, Uttar Pradesh","UGC","₹55.9 K / yr M.Sc (Medicine) - ...",,""
+"Uttar Pradesh Rajarshi Tandon Open University - [UPRTOU], Allahabad","","Allahabad, Uttar Pradesh","NCTE, RCI, DEB","₹11 K / yr UG Certificate in ...",,
+"All India Institute of Medical Sciences - [AIIMS], Rishikesh","","Rishikesh, Uttarakhand","MCI","₹1.66 K / yr MBBS - avg fee",,""
+"Himalayan Institute Hospital Trust University, Dehradun","","Dehradun, Uttarakhand","UGC","₹52.7 K / yr B.Sc (Medicine) - ...",,""
+"Patanjali University, Haridwar","","Haridwar, Uttarakhand","UGC","₹35 K / yr PG Diploma in Medi...",,
+"Uttarakhand Sanskrit University, Haridwar","","Haridwar, Uttarakhand","UGC","-- PG Diploma in Medi...",,
+"Netaji Subhas Open University - [NSOU], Kolkata","","Kolkata, West Bengal","UGC","₹15 K / yr UG Diploma in Medi...",,""
+"Ramakrishna Mission Vivekananda University - [RKMVU], Belur","","Belur, West Bengal","UGC","-- PG Diploma in Medi...",,
+"Hillside Academy, Bangalore","","Bangalore, Karnataka","AICTE","₹45.3 K / yr Bachelor of Physio...",,""
+"Amala Institute of Medical Sciences - [AIMS], Thrissur","","Thrissur, Kerala","MCI","-- MBBS",,"3.4 / 5 3 reviews"
+"Jaya Group of Intitutions, Chennai","","Chennai, Tamil Nadu","","-- Bachelor of Physio...",,""
+"CT Group of Institutions, Jalandhar","","Jalandhar, Punjab","AICTE","₹28.4 K / yr UG Diploma in Medi...",,""
+"White Memorial Institutions, Attoor","","Attoor, Tamil Nadu","","-- BHMS",,""
+"Dayananda Sagar Institutions - [DSI], Bangalore","","Bangalore, Karnataka","DCI, AICTE, NAAC","-- Bachelor of Physio...",,"3.5 / 5 12 reviews"
+"Vananchal Educational & Welfare Trust, Garhwa","","Garhwa, Jharkhand","DCI, INC, MCI","₹43.8 K / yr BHMS - avg fee",,""
+"Nizam's Institute of Medical Sciences - [NIMS], Hyderabad","","Hyderabad, Telangana","MCI, UGC","₹32.6 K / yr Bachelor of Physio...",,""
+"Sunrise Group of Institutions, Udaipur","","Udaipur, Rajasthan","AICTE","₹1.21 L / yr Bachelor of Physio...",,"3.6 / 5 26 reviews"
+"Pandit Deen Dayal Upadhyaya Pashu Chikitsa Vigyan Vishwavidyalaya Evam Go Anusandhan Sansthan - [DUVASU], Mathura","","Mathura, Uttar Pradesh","","-- B.Sc (Medicine)",,
+"Varu Institute of Professional Studies - [VIPS], Lucknow","","Lucknow, Uttar Pradesh","NCTE, PCI, INC, AICTE","-- B.Sc (Medicine)",,""
+"Institute of Medical Sciences and SUM Hospital - [IMS & SUM Hospital], Bhubaneswar","","Bhubaneswar, Orissa","MCI","₹12.2 L / yr MBBS - avg fee",,"4 / 5 1 reviews"
+"People's College Of Paramedical Science and Research Centre - [PCPS], Bhopal","","Bhopal, Madhya Pradesh","AICTE","₹37.7 K / yr B.Sc (Medicine) - ...",,""
+"International School of Aesthetics and Spa - [ISAS], Pune","","Pune, Maharashtra","","-- UG Certificate in ...",,
+"Mother Teresa Women's University, Dindigul","","Dindigul, Tamil Nadu","","₹2.5 K / yr PG Diploma in Medi...",,
+"Jagannath University, Bahadurgarh","","Bahadurgarh, Haryana","NCTE, BCI, UGC, AIU","₹72 K / yr Bachelor of Physio...",,"3.9 / 5 11 reviews"
+"Himalayan University - [HU], Papum Pare","","Papum Pare, Arunachal Pradesh","RCI, PCI, BCI, AICTE, UGC","₹17 K / yr Bachelor of Physio...",,""
+"Karnataka State Women's University - [KSWU], Bijapur","","Bijapur, Karnataka","UGC","₹20.5 K / yr PG Diploma in Medi...",,
+"Uttarakhand Ayurved University, Dehradun","","Dehradun, Uttarakhand","CCH, UGC","-- BAMS",,""
+"Christian College, Bangalore","","Bangalore, Karnataka","INC, KNC","₹80 K / yr B.Sc (Nursing) - a...",,
+"GMERS Medical College, Valsad","","Valsad, Gujarat","MCI","₹3 L / yr MBBS - avg fee",,""
+"Gujarat Medical Education and Research Society Medical College - [GMERS], Vadodara","","Vadodara, Gujarat","MCI","₹2.73 L / yr MBBS - avg fee",,""
+"Vaidyaratnam P.S. Varier Ayurveda College Kottakkal, Malappuram","","Malappuram, Kerala","CCIM","₹13.9 K / yr BAMS - avg fee",,""
+"GMERS Medical College & Hospital, Gandhi Nagar","","Gandhi Nagar, Gujarat","MCI","₹3 L / yr MBBS - avg fee",,""
+"Dr. Ram Manohar Lohia Institute of Medical Sciences - [RMLIMS], Lucknow","","Lucknow, Uttar Pradesh","MCI","₹38 K / yr UG Diploma in Medi...",,
+"Swami Rama Himalayan University - [SRHU], Dehradun","","Dehradun, Uttarakhand","UGC, AIU","₹59.8 K / yr B.Sc (Medicine) - ...",,"3.5 / 5 10 reviews"
+"A.J. College of Science and Technology Thonnakkal, Thiruvananthapuram","","Thiruvananthapuram, Kerala","NAAC","₹39 K / yr B.Sc (Medicine) - ...",,
+"Institute of Paramedical Sciences Anjarakandy, Kannur","","Kannur, Kerala","AICTE","-- B.Sc (Medicine)",,""
+"Academy of Medical Science Pariyaram , Kannur","","Kannur, Kerala","MCI","₹53 K / yr B.Sc (Medicine) - ...",,"3.9 / 5 1 reviews"
+"Assisi College of Nursing - [ACN], Kottayam","","Kottayam, Kerala","INC, KNMC","-- UG Diploma in Medi...",,""
+"Ahalia School of Optometry - [ASP], Palakkad","","Palakkad, Kerala","","-- UG Diploma in Medi...",,""
+"Al-Azhar Medical college and super speciality hospital - [AAMC], Thodupuzha","","Thodupuzha, Kerala","MCI","₹7.73 L / yr MBBS - avg fee",,
+"Caritas College of Nursing - [CCN], Kottayam","","Kottayam, Kerala","INC","₹67.5 K / yr B.Sc (Nursing) - a...",,
+"Government Medical College, Ernakulam","","Ernakulam, Kerala","MCI","₹25 K / yr MBBS - avg fee",,
+"Lourdes College of Nursing - [LCN], Kochi","","Kochi, Kerala","INC, KNC","₹55 K / yr B.Sc (Nursing) - a...",,
+"Government Ayurveda College Tripunithura, Ernakulam","","Ernakulam, Kerala","","₹12 K / yr BAMS - avg fee",,"3.2 / 5 1 reviews"
+"Government College of Nursing, Thiruvananthapuram","","Thiruvananthapuram, Kerala","INC","₹31.5 K / yr B.Sc (Nursing) - a...",,""
+"Lisieux College of Paramedical Sciences - [LCPS], Ernakulam","","Ernakulam, Kerala","","₹27.3 K / yr B.Sc (Medicine) - ...",,
+"Lourde Institute of Allied Health Sciences, Kannur","","Kannur, Kerala","IAP","₹30 K / yr Bachelor of Physio...",,
+"Malabar Medical College Hospital & Research Centre - [MMCH], Calicut","","Calicut, Kerala","MCI","₹6.82 L / yr MBBS - avg fee",,
+"University of Kerala, School of Distance Education, Thiruvananthapuram","","Thiruvananthapuram, Kerala","DEB, NAAC-A","₹5.66 K / yr PG Diploma in Medi...",,
+"KVM Institute of Paramedical Sciences - [KVMIPMS], Cherthala","","Cherthala, Kerala","","₹27.3 K / yr B.Sc (Medicine) - ...",,
+"Malankara Orthodox Syrian Church College of Nursing - [MOSC] Kolenchery, Ernakulam","","Ernakulam, Kerala","INC, KNC","₹80 K / yr B.Sc (Nursing) - a...",,
+"Mar Thoma College of Special Education Badiadka, Kasaragod","","Kasaragod, Kerala","RCI","₹70.9 K / yr B.Sc (Medicine) - ...",,""
+"Kerala Veterinary and Animal Sciences University, Distance Learning - [KVASU-DL] Pookode, Wayanad","","Wayanad, Kerala","ICAR","₹24 K / yr PG Certificate in ...",,
+"Moulana Institute of Paramedical Sciences Angadippuram, Malappuram","","Malappuram, Kerala","AICTE","₹19 K / yr B.Sc (Medicine) - ...",,
+"Westfort College of Nursing - [WCN], Thrissur","","Thrissur, Kerala","INC, KNMC, AICTE","₹68 K / yr B.Sc (Nursing) - a...",,
+"Mount Zion Medical College Hospital Pathanamthitta, Adoor","","Adoor, Kerala","MCI","₹7.5 L / yr MBBS - avg fee",,
+"Vishnu Ayurveda College - [VAC], Palakkad","","Palakkad, Kerala","CCIM","₹96.9 K / yr BAMS - avg fee",,
+"Vijaya College of Nursing - [VCN], Kottarakara","","Kottarakara, Kerala","INC, KNC","₹72 K / yr B.Sc (Nursing) - a...",,
+"MIMS College of Nursing, Malappuram","","Malappuram, Kerala","INC","₹15 K / yr PG Diploma in Medi...",,
+"Mahatma Gandhi University, School of Medical Education - [SME], Kottayam","","Kottayam, Kerala","INC","₹45.1 K / yr Bachelor of Physio...",,""
+"Vaidyaratnam Ayurveda College, Thrissur","","Thrissur, Kerala","CCIM","₹6.73 K / yr BAMS - avg fee",,""
+"Travancore Medical College - [TMC], Kollam","","Kollam, Kerala","PCI, INC","₹2.19 L / yr MBBS - avg fee",,
+"P.M.S.A Pookoya Thangal Memorial Arts & Science College Kadakkal, Kollam","","Kollam, Kerala","","₹25 K / yr B.Sc (Medicine) - ...",,
+"St. Joseph's College of Nursing Dharmagiri, Kothamangalam","","Kothamangalam, Kerala","INC, KNC","₹55 K / yr B.Sc (Nursing) - a...",,
+"Goverment Medical College, Palakkad","","Palakkad, Kerala","MCI","₹32.5 K / yr MBBS - avg fee",,
+"St. James College of Nursing - [SJCON] Chalakudy, Thrissur","","Thrissur, Kerala","INC","₹70 K / yr B.Sc (Nursing) - a...",,
+"Govt.College of Nursing, Kottayam","","Kottayam, Kerala","INC","-- PG Diploma in Medi...",,
+"EMS College of Paramedical Sciences Perinthalmanna , Malappuram","","Malappuram, Kerala","INC, KNMC","₹45 K / yr Bachelor of Physio...",,""
+"Government Medical College - [GMC] Manjeri, Malappuram","","Malappuram, Kerala","MCI","₹25 K / yr MBBS - avg fee",,
+"Sivagiri Sree Narayana Medical Mission College of Nursing, Thiruvananthapuram","","Thiruvananthapuram, Kerala","INC","₹70 K / yr B.Sc (Nursing) - a...",,
+"Sree Narayana Institute of Ayurvedic Studies and Research - [SNIASR], Kollam","","Kollam, Kerala","CCIM","₹50 K / yr BAMS - avg fee",,
+"St. Gregorios College of Health Science Parumala, Pathanamthitta","","Pathanamthitta, Kerala","","₹19 K / yr B.Sc (Medicine) - ...",,
+"Co-Operative College of Nursing, Trivandrum","","Trivandrum, Kerala","INC","₹55 K / yr B.Sc (Nursing) - a...",,
+"Bon Secours College for Women, Thanjavur","","Thanjavur, Tamil Nadu","","-- Diploma in Medical",,
+"DM Wayanad Institute of Medical Sciences Meppadi - [DM WIMS], Wayanad","","Wayanad, Kerala","MCI","₹8 L / yr MBBS - avg fee",,
+"Omayal Achi College Of Nursing, Puzhal - [OACN], Chennai","","Chennai, Tamil Nadu","INC","-- M.Sc",,
+"Cancer Institute (W.I.A.) Adyar, Chennai","","Chennai, Tamil Nadu","","-- M.Ch",,""
+"Ellen College Of Nursing Madukkarai, Coimbatore","","Coimbatore, Tamil Nadu","INC","₹28 K / yr B.Sc (Nursing) - a...",,
+"ESIC Medical College and PGIMSR, Chennai","","Chennai, Tamil Nadu","","₹25 K / yr MBBS - avg fee",,""
+"Annammal College Of Nursing Kuzhithurai, Kanchipuram","","Kanchipuram, Tamil Nadu","INC","₹45 K / yr B.Sc (Nursing) - a...",,
+"College of Nursing, Nirmala Medical Centre, Muvattupuzha","","Muvattupuzha, Kerala","INC, KNMC","₹70 K / yr B.Sc (Nursing) - a...",,
+"Little Flower Institute of Medical Science & Research Centre - [LIMSAR] Angamaly, Ernakulam","","Ernakulam, Kerala","MCI","₹30.2 K / yr Bachelor of Physio...",,""
+"PGP College Of Pharmaceutical Science And Research Institute, Namakkal","","Namakkal, Tamil Nadu","AICTE","-- B.Sc",,
+"Ganga Institute of Health Sciences, Coimbatore","","Coimbatore, Tamil Nadu","INC","₹30 K / yr B.Sc (Nursing) - a...",,""
+"Meenakshi Mission Hospital & Research Center - [MMH], Madurai","","Madurai, Tamil Nadu","INC, MCI","-- B.Sc (Medicine)",,""
+"Rayat Bahra Hoshiarpur Campus, Hoshiarpur","","Hoshiarpur, Punjab","NCTE, PCI, INC, BCI, AICTE","₹40.3 K / yr B.Sc (Nursing) - a...",,""
+"GEM Hospital and Research Centre, Coimbatore","","Coimbatore, Tamil Nadu","","-- Diplomate National...",,""
+"Meenakshi Ramasamy Arts and Science College, Udayarpalayam","","Udayarpalayam, Tamil Nadu","AICTE","-- UG Diploma in Medi...",,
+"Annapoorana Medical College & Hospitals - [AMCH], Salem","","Salem, Tamil Nadu","MCI","₹2.6 L / yr MBBS - avg fee",,
+"Apollo College of Nursing - [ACN], Chennai","","Chennai, Tamil Nadu","INC","₹45 K / yr B.Sc (Nursing) - a...",,""
+"PPG College of Nursing, Saravanampatti, Coimbatore","","Coimbatore, Tamil Nadu","INC","₹45 K / yr M.Sc (Nursing) - a...",,
+"Cherraan's College of Physiotherapy, Coimbatore","","Coimbatore, Tamil Nadu","INC","₹28 K / yr Bachelor of Physio...",,""
+"P.P.G. College Of Physiotherapy, Saravanampatti, Coimbatore","","Coimbatore, Tamil Nadu","INC","₹24.9 K / yr Bachelor of Physio...",,""
+"Christian College Of Nursing, Dindigul","","Dindigul, Tamil Nadu","INC","-- UG Diploma in Medi...",,
+"Ayurvedha College Sulur, Coimbatore","","Coimbatore, Tamil Nadu","CCIM","₹81.8 K / yr BAMS - avg fee",,
+"KMCH College of Occupational Therapy, Coimbatore","","Coimbatore, Tamil Nadu","","₹28 K / yr B.Sc (Medicine) - ...",,""
+"Dr. K. M. Cherian Heart Foundation, Chennai","","Chennai, Tamil Nadu","","-- Diplomate National...",,""
+"White Memorial Educational Society, College Of Physiotherapy, Chennai","","Chennai, Tamil Nadu","","₹28 K / yr Bachelor of Physio...",,""
+"White Memorial Educational, College Of Physiotherapy, Attoor","","Attoor, Tamil Nadu","","₹28 K / yr Bachelor of Physio...",,""
+"Devendrar College Of Physiotherapy, Tirunelveli","","Tirunelveli, Tamil Nadu","","-- Bachelor of Physio...",,
+"National Institute for Empowerment of Persons with Multiple Disabilities - [NIEPMD], Chennai","","Chennai, Tamil Nadu","NCTE, NAAC","₹20.3 K / yr PG Diploma in Medi...",,""
+"Dhanalakshmi Srinivasan College Nursing , Perambalur","","Perambalur, Tamil Nadu","","₹60 K / yr B.Sc (Nursing) - a...",,""
+"Revathi College Of Nursing, Tiruppur","","Tiruppur, Tamil Nadu","INC","₹30 K / yr B.Sc - avg fee",,""
+"Karpaga Vinayaga College of Nursing - [KVCN], Maduranthakam","","Maduranthakam, Tamil Nadu","INC","₹30 K / yr B.Sc (Nursing) - a...",,
+"Dhanalakshmi Srinivasan Medical College And Hospital, Perambalur","","Perambalur, Tamil Nadu","","₹1.75 L / yr MBBS - avg fee",,
+"Pasteur Institute Of India, Coonoor","","Coonoor, Tamil Nadu","","-- MD",,
+"Dhanvantri College Of Nursing, Namakkal","","Namakkal, Tamil Nadu","","₹35 K / yr B.Sc (Nursing) - a...",,
+"Sri S.Ramasamy Naidu memorial College - [SRNMC], Sattur","","Sattur, Tamil Nadu","UGC, NAAC-A","-- UG Diploma in Medi...",,
+"Doctor's College Of Nursing, Pudukkottai","","Pudukkottai, Tamil Nadu","","-- Diploma in Medical",,
+"Sacred Heart Nursing College, Madurai","","Madurai, Tamil Nadu","INC","₹30 K / yr B.Sc (Nursing) - a...",,
+"Sacred Heart College (Autonomous) - [SHC], Tiruppattur","","Tiruppattur, Tamil Nadu","NAAC-A","-- PG Diploma in Medi...",,""
+"Sakthi College Of Nursing, Karur","","Karur, Tamil Nadu","INC","₹21 K / yr Diploma in Medical...",,
+"Government Sivagangai Medical College and Hospital, Sivaganga","","Sivaganga, Tamil Nadu","MCI","₹12 K / yr MBBS - avg fee",,""
+"Government Unani Medical College, Chennai","","Chennai, Tamil Nadu","MCI","₹10 K / yr UG Diploma in Medi...",,
+"Government Villupuram Medical College and Hospital, Villupuram","","Villupuram, Tamil Nadu","MCI","₹12 K / yr MBBS - avg fee",,
+"Grace College of Nursing, Kanyakumari","","Kanyakumari, Tamil Nadu","INC","₹28 K / yr B.Sc (Nursing) - a...",,
+"Sarada Krishna Homoeopathy Medical College Kulasekharam, Kanchipuram","","Kanchipuram, Tamil Nadu","CCH","₹31.1 K / yr BHMS - avg fee",,""
+"Preethi Hospital Madurai, Madurai","","Madurai, Tamil Nadu","","₹1 L / yr UG Diploma in Medi...",,""
+"Liberty Institute of Radiology and Paramedical Research Centre, Chennai","","Chennai, Tamil Nadu","MCI","₹35 K / yr B.Sc - avg fee",,
+"Nichi-In Centre For Regenerative Medicine Nungambakkam - [NCRM], Chennai","","Chennai, Tamil Nadu","INC","₹1.92 L / yr M.Sc (Medicine) - ...",,
+
